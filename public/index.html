@@ -6,6 +6,11 @@
 </head>
 <body>
     <h1>Token Accounts</h1>
+    <form id="mintForm">
+        <label for="mintAddress">Enter Token Mint Address:</label>
+        <input type="text" id="mintAddress" name="mintAddress" required>
+        <button type="submit">Submit</button>
+    </form>
     <table>
         <thead>
             <tr>
@@ -19,26 +24,7 @@
             <!-- Data rows will be inserted here -->
         </tbody>
     </table>
-
-    <script>
-        async function fetchData() {
-            const response = await fetch('/data');
-            const accounts = await response.json();
-            const tableBody = document.getElementById('accountData');
-            tableBody.innerHTML = '';
-
-            accounts.forEach(account => {
-                const row = `<tr>
-                    <td>${account.owner}</td>
-                    <td>${account.amount}</td>
-                    <td>${account.percentage}</td>
-                </tr>`;
-                tableBody.innerHTML += row;
-            });
-        }
-
-        setInterval(fetchData, 5000);
-        fetchData(); // Initial fetch
-    </script>
 </body>
+<script src="/app.js"></script>
+
 </html>
