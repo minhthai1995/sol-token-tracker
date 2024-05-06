@@ -46,8 +46,8 @@ async function findHolders(mint, wallets) {
                             amount: account.amount,
                             frozen: account.frozen
                         });
-                        totalTokens += account.amount;
                     }
+                    totalTokens += account.amount;
                 });
                 page++;
             }
