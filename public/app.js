@@ -1,27 +1,52 @@
-let currentMint = '';  // Variable to store the current mint address
+document.addEventListener('DOMContentLoaded', function () {
+    const form = document.getElementById('mintForm');
 
-document.getElementById('mintForm').addEventListener('submit', function(event) {
-    event.preventDefault();
-    currentMint = document.getElementById('mintAddress').value;
-    fetchData(currentMint);  // Call fetchData with the new mint address
+    form.addEventListener('submit', async function (event) {
+        event.preventDefault();
+        const formData = new FormData(form);
+        const mint = formData.get('mintAddress');
+        const wallets = formData.get('wallets');
+
+        try {
+            const response = await fetch('/data?mint=' + encodeURIComponent(mint) + '&wallets=' + encodeURIComponent(wallets), {
+                method: 'GET',
+            });
+
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+
+            const data = await response.json();
+            displayData(data);
+        } catch (error) {
+            console.error('There was a problem fetching the data:', error);
+        }
+    });
 });
 
-async function fetchData(mint) {
-    const response = await fetch('/data?mint=' + encodeURIComponent(mint));
-    const accounts = await response.json();
+function displayData(data) {
     const tableBody = document.getElementById('accountData');
     tableBody.innerHTML = '';
-    accounts.forEach(account => {
-        const row = `<tr>
-            <td>${account.owner}</td>
-            <td>${account.amount}</td>
-            <td>${account.percentage}</td>
-        </tr>`;
-        tableBody.innerHTML += row;
+
+    data.forEach(account => {
+        const row = document.createElement('tr');
+
+        const addressCell = document.createElement('td');
+        addressCell.textContent = account.address;
+        row.appendChild(addressCell);
+
+        const amountCell = document.createElement('td');
+        amountCell.textContent = account.amount;
+        row.appendChild(amountCell);
+
+        const ownerCell = document.createElement('td');
+        ownerCell.textContent = account.owner;
+        row.appendChild(ownerCell);
+
+        const percentageCell = document.createElement('td');
+        percentageCell.textContent = account.percentage;
+        row.appendChild(percentageCell);
+
+        tableBody.appendChild(row);
     });
 }
-
-// Set interval to refresh data every 5 seconds
-setInterval(() => {
-    fetchData(currentMint);  // Continuously fetch data with the current mint
-}, 5000);

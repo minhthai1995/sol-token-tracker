@@ -1,701 +1,2556 @@
 [
   {
-    "address": "9PCnHs8VvXSwuJgndMNXPHdJbBCE9DruX5DRiHu8edY9",
-    "owner": "9mRMF5pGAUqQxqhra7TqnYjr2miZSzJBEknS2c3G84aC",
-    "amount": 80160319641282,
+    "address": "CscwhBLajn3uVYH2yyqMVUVz6Mvw3Ecce3vVK5xDunxf",
+    "owner": "5jTG4E6M5nXkaeMwBnFmj8VG1PYYdKschidS79aNk41M",
+    "amount": 7924335533949,
     "frozen": false,
-    "percentage": "8.25%"
+    "percentage": "6.42%"
   },
   {
-    "address": "4KSB4ZsVNgTQ3ug3qFmWpHyEuMbDYAtZNYJVyhbk8syj",
-    "owner": "21s3ccauLa2HjRjzc1FsYMLTKRXQiueqzH6SWXks75jh",
-    "amount": 28242962901491,
+    "address": "5qHCtMpZduEHUMvp5EKBoxjpuf6waJjux4wUWiZqf5kh",
+    "owner": "FmgkBq68fUSyNMJowmN8TAXLZuS6gWSTbTFH8zTSLchj",
+    "amount": 6857905518769,
     "frozen": false,
-    "percentage": "2.91%"
+    "percentage": "5.56%"
   },
   {
-    "address": "F9mycXUwEYU8mLomXB9h22J5WDNGmhhKZ8o3BweV59n3",
-    "owner": "qgfCaBogsyf9A8CfjFsx7syj6BsnVZycwTsrri4h8UF",
-    "amount": 28124196725094,
+    "address": "3LXNMEHVF8YokrP4gLNbFSYkcci7H1VsbTcbnvbkxNd6",
+    "owner": "HWzdPRNbLDXfUqqEsjb3HJj4hGT96hFLuNtT5P7xsTh2",
+    "amount": 5003967305522,
     "frozen": false,
-    "percentage": "2.89%"
+    "percentage": "4.06%"
   },
   {
-    "address": "HhLn3bC853PsQPw97PFnNb3HiLQB3ZeEK1n5cSUtHScd",
-    "owner": "4vNoY2NbJphMcZ7PdwmtBa4X2GUZADhJD94W1xE1N37g",
-    "amount": 25686424313327,
+    "address": "745RsDWWcKJHYujMYKuog6c8kEBcBMuCFxtmt9qLEgYA",
+    "owner": "B2D33Yu4HWaDnrbXqN2gkftBi9ad1HU7Umo5srGWjTri",
+    "amount": 4492899842843,
     "frozen": false,
-    "percentage": "2.64%"
+    "percentage": "3.64%"
   },
   {
-    "address": "3BE9UE9rEXDjSQu3hPdnZLhUhtWxfeJkeNZ2mJ6MDDaM",
-    "owner": "3ZTSNd8wgHCq3s8CftbV8cCVrtBrvn9cYo9USDGebArV",
-    "amount": 24178402933943,
+    "address": "6YepbrJ2CC8HPH5B9RccMCRdwAnaXxF4vpACeqBv8vxY",
+    "owner": "4LQuLeQYrAsqHtsJ3s15dT8A4Jpbr6iEKnK2DJAL7ZNo",
+    "amount": 3719815567207,
     "frozen": false,
-    "percentage": "2.49%"
+    "percentage": "3.02%"
   },
   {
-    "address": "79efVdbP4vwPkRF9RKnVE4RkNqi8HXL4HzSNgHzRc4Gw",
-    "owner": "6FW5NmFc9SkAVbLQ4oj772rCcAYdSBYDXhMP9WfCXZYx",
-    "amount": 23046445955518,
+    "address": "5TPue34tmDtWW1ASSnPnSzn9pRTpBPmj4wcuZLHkdw6m",
+    "owner": "BAxAbdSwoePoL2Debj946wqVqBcaGvK7KEYhqb6NWLd9",
+    "amount": 3630214849133,
     "frozen": false,
-    "percentage": "2.37%"
+    "percentage": "2.94%"
   },
   {
-    "address": "46Tw7ySV79WLjZh2jwBScyZQWW6frnncNrWDX3GqG7HC",
-    "owner": "5UWpgh2kaEaSaLEdczJkZnVZQXRXUFDPZoAgvXSwCLxK",
-    "amount": 22830397072773,
+    "address": "DUza51n32UyDnzYNYsFooQEypPFyZfFseYGHHqV2HRba",
+    "owner": "CoWhew8oTHKn7AuVQFi3VHcrpj8HA2LGCMr2Y4dzeuBc",
+    "amount": 3173317498405,
     "frozen": false,
-    "percentage": "2.35%"
+    "percentage": "2.57%"
   },
   {
-    "address": "HVWTkjUGPwcLFNZUXoVz9WhozyoyNf6FSSEuZvargAdx",
-    "owner": "4ehrXd1gGybwUMeDnnXZ22YbiqHUQronxtaneigj74ih",
-    "amount": 22520786122129,
-    "frozen": false,
-    "percentage": "2.32%"
-  },
-  {
-    "address": "95PhxfCxo9P9cYiwbYkutCmb9Q75kgwyEMrcQJF9mHwb",
-    "owner": "F3U8xqoXWGkfxs87T7df45fnaCBW1EUD5o9KkQwSRQbZ",
-    "amount": 21469594111793,
-    "frozen": false,
-    "percentage": "2.21%"
-  },
-  {
-    "address": "7jm9E39kQejNu54pPu3bJdkKHFZsxuZzudyP3hqWDnxS",
-    "owner": "7XTmiFNeVR1559AksALa2923cewZeJwpDL1k399B6nEJ",
-    "amount": 20748160929329,
+    "address": "6FHhmXsQRPUz3ftrfFRw2k2LuwA3WYRp8EBP8ykd36od",
+    "owner": "7Sz2UvMtBpDZK7vek39ENs6xAi3wyJ2TPkajzFqGdZ4R",
+    "amount": 2645294678524,
     "frozen": false,
     "percentage": "2.14%"
   },
   {
-    "address": "rj7DEvs5ZGcZLQ5MCRzprnbMj34rVUbEhQS5kg8wFk3",
-    "owner": "FFuVv5RPzFzmS59KcxpKRDsjjfsPqMRv8oZXF8RPdezQ",
-    "amount": 20355784795042,
+    "address": "5VgkTGL7sgxVrHLz9R12ZZf9FAU7tjhKzSMFfXVNnayj",
+    "owner": "DQYa1TuyJGZYrZG9RqnVPF7idx7HmPHwiUe6xhxUnTSe",
+    "amount": 2593080806421,
     "frozen": false,
-    "percentage": "2.09%"
+    "percentage": "2.10%"
   },
   {
-    "address": "9jUhVrbpyKW16yf7tWvn5nUvq6n1JdSYDTeUnbFTTAZ4",
-    "owner": "ARD4LnFoM23HX2NimnSfDWdhpbVFHycMFBoqFW92sTuQ",
-    "amount": 20176513407206,
+    "address": "8rkeswBakGk8wyR8uAcQ6LkLicmLvmo4XMEVYESiX6z5",
+    "owner": "5mB3wqikCCmfDqsf2QMQWadGJsJDkEaSasHUrh5375vB",
+    "amount": 2493241018922,
     "frozen": false,
-    "percentage": "2.08%"
+    "percentage": "2.02%"
   },
   {
-    "address": "DH41SF76f79HWwu6vkjFadNBFW1WvY8EpXSAm7k1NXei",
-    "owner": "GiaH9293d1JepCPy253DhuNNg36KuSyk1XJPcSpfmeK3",
-    "amount": 20132180497026,
-    "frozen": false,
-    "percentage": "2.07%"
-  },
-  {
-    "address": "jxGUhN4Zq6TYEjKsz12zt5FKhAGJs8iu2VFA5qNtFqA",
-    "owner": "CXLg1RnqTVfjp9bqkBE8LVNNrPxXhtKhPe5EtkpoCaVo",
-    "amount": 19952428590948,
-    "frozen": false,
-    "percentage": "2.05%"
-  },
-  {
-    "address": "3uRjYE83d2PebnBzqPsLFXum65oyU3BkQDx5P1tUnUWG",
-    "owner": "5ZPDRuUhEVSJFgyAUMgzq1Dheb1cG8TB5yYyqvv1xAgG",
-    "amount": 19846205056579,
-    "frozen": false,
-    "percentage": "2.04%"
-  },
-  {
-    "address": "3HKSuMGsLaEbUpsCKcM4cZRYBjksmXV3vVWp3cBE89w2",
-    "owner": "Cze44tUxjCPa3XBNeisTVmbTS5FS6FQanA6XEWZPWFtB",
-    "amount": 19520158954875,
+    "address": "EBNByhjoQgm349XbvtT3J9dLFaR6MSG4sqFPUqX8pjgN",
+    "owner": "fHfTNsxYArD3ckYigbu4EQ7hK48dQ17YxViU42hmhje",
+    "amount": 2481037536771,
     "frozen": false,
     "percentage": "2.01%"
   },
   {
-    "address": "btaprPwHnXTRMR7meQgthuYFnGXN5iXZsaTmn7wJJuN",
-    "owner": "Cbgpz2bZj6CKSXce13spkER8KXnLB4Lf9YvW4svYT5rn",
-    "amount": 18947487464686,
+    "address": "9NXTLb9REvZKBsgg7DkMhP5LPfW8Z1bix2QWVwYNB2ag",
+    "owner": "DvgLSTTDcK8NbDjknjeV4EJQTt4ntPsCufML5BhVtR2W",
+    "amount": 2350859184678,
     "frozen": false,
-    "percentage": "1.95%"
+    "percentage": "1.91%"
   },
   {
-    "address": "6Bg12wsXWWWeoEu7sMfpWcz36x5KETQNnkxoX6mGK8tB",
-    "owner": "H87PHaXJvCgFB8FaPYq2vZduPJwJPCkTYtXTfUSKcWfK",
-    "amount": 18802560391329,
+    "address": "5or512VHwwm3nrfGk6SP5W5JYsMoZHELiQoNy3pqq8YL",
+    "owner": "HvdovQXGniJcURBNNk2KrpjuyfXJS2JnteAefZxEr3Xe",
+    "amount": 2084022151762,
     "frozen": false,
-    "percentage": "1.93%"
+    "percentage": "1.69%"
   },
   {
-    "address": "7N4wZaHUi8EGJFkjwM9iM4d7pe7eeAZkHVkBB2wQq5s1",
-    "owner": "2MgGwi2jhyeF5XaobKXxVKUiPUR9MF55NdbfecHjBM4H",
-    "amount": 18493318965115,
+    "address": "4NuR17pKYKhtCpr7QDHwTUpBu87iDNoVJWpin3cdGyoX",
+    "owner": "Ej718WDFTGJ1LF7FXpv3Mz6ikTwtg2KMPBUhieDSokek",
+    "amount": 1988443376262,
     "frozen": false,
-    "percentage": "1.90%"
+    "percentage": "1.61%"
   },
   {
-    "address": "E6EdeccXR6jgrR6s9w4rF5WndSkjVq2GwafcTNzXysry",
-    "owner": "7ajhgeJ8uQ88Xa5BCCewk3zD19K9ZFT3AwW9ewFfwedx",
-    "amount": 18231511218638,
-    "frozen": false,
-    "percentage": "1.88%"
-  },
-  {
-    "address": "7HQX1EsU8PcJFPwtPguL3VubnYC6oQZ9PzXQ5upjELgK",
-    "owner": "CtEoLSoizo7ASivaPyBPEGTHSCon9QukCmEVppm5AXzS",
-    "amount": 18213016996758,
-    "frozen": false,
-    "percentage": "1.87%"
-  },
-  {
-    "address": "5LUtP8xHrM5fJQnuvS3d1UiaSTXWZDwCz3x3iYf7YhaB",
-    "owner": "FDV57Lkdy8vT71KTRTUtnyJzV1DABNrF9ZMaxRMWB1hP",
-    "amount": 17509379743325,
-    "frozen": false,
-    "percentage": "1.80%"
-  },
-  {
-    "address": "5bGuqKtGYN4KwFHVWBj2ECEg45UNBJKRzAoV9cQGrBF6",
-    "owner": "GvV6gAc4wfNtqzXrxFQucGjedqtV87LchhcoE3ZRqQ42",
-    "amount": 17475606787724,
-    "frozen": false,
-    "percentage": "1.80%"
-  },
-  {
-    "address": "JCfCsUsuQYzZ8r9u4QHZNovthMQTcshsEU3gTjQAm91i",
-    "owner": "BoSPD1hwQpmVamUSHW287wNvBQ7P8wNvy5gxs3JEbBHC",
-    "amount": 17282502814071,
-    "frozen": false,
-    "percentage": "1.78%"
-  },
-  {
-    "address": "brXYcSvs1sLaoEbPgn5g6dtA525tDZN5eoMjbvtrKT2",
-    "owner": "EYHcmksFCBrNfpLzY37BWdPar128zTphicUeqardzHZK",
-    "amount": 15917056526739,
-    "frozen": false,
-    "percentage": "1.64%"
-  },
-  {
-    "address": "3DH3RkzHFuDPiguQy6yXNATFQEckwmCiWu2k3r4KhVkm",
-    "owner": "9bD9EzzzqHi3oNGR4ayjjb74rWdLtC5UkM47uctjD82Y",
-    "amount": 15772230994602,
-    "frozen": false,
-    "percentage": "1.62%"
-  },
-  {
-    "address": "AvdXbkcHzs8uy6VSTyTvfRc5hK3CmYj28664JDHs6qDa",
-    "owner": "B1sXjzWBZfU3oZaZkQ5zqnbipahzS5PZAMNct7YuCwKA",
-    "amount": 15758130964575,
-    "frozen": false,
-    "percentage": "1.62%"
-  },
-  {
-    "address": "6dxqiMq9gtmsU8tnekCfmyXZWWNsJFu2LsXenkEeqsaF",
-    "owner": "G8QobQgooXgMYENgCGdUJ2wdhBBYPHbWGcWHb3ew5bn2",
-    "amount": 15488287969071,
-    "frozen": false,
-    "percentage": "1.59%"
-  },
-  {
-    "address": "8N17CHeV5hx38vocKXKqjf116sELBs5JAk9xRk6hjidz",
-    "owner": "8A28k5Y7wRdfFYR1yWVCUBicW1LvsVXHjHykqKEC354C",
-    "amount": 15304556762930,
-    "frozen": false,
-    "percentage": "1.57%"
-  },
-  {
-    "address": "DmHenQXFM9tHWxf1cg6HRcA7RPQWmVs8eopJ5PqvedDb",
-    "owner": "5FX864zXj7CCUTjjqHKAW1SM6XFY488KzVuLsoCBhjnk",
-    "amount": 15243820572930,
-    "frozen": false,
-    "percentage": "1.57%"
-  },
-  {
-    "address": "3GQ18BYwH46a93bkPHR4UUypN4RJd3EZYACktnkWrWQg",
-    "owner": "Ew1BSDFussJRfYhA5JXR9CwvrodK6Xh7UKFHzScvGXYb",
-    "amount": 15194878311702,
+    "address": "3GxWPHJCtPeCiSNh7xCWoR8jaixLYhwSYGR3Mepo5apu",
+    "owner": "5xmCcRCbVu1aLRCXXuZzRqUPuop3M4EZYTr2gZv65Jq7",
+    "amount": 1919597315588,
     "frozen": false,
     "percentage": "1.56%"
   },
   {
-    "address": "6vJX1jxKNkWgzwwrDf5o6MiQv4L3d1W2svQdP2Jxet57",
-    "owner": "7ox9GbouXVaSL3wNhS49kaqVMWrGAS5epxVhYWqUaFVE",
-    "amount": 14248571648531,
+    "address": "CaUki2ucPzPHA2V2YzSmt9iXhEEM8QXJt1fj5nizAMUn",
+    "owner": "95jQFMBkFK5ZykRBhvLhWG1fxfThkjYtXwFfhq9cXCtd",
+    "amount": 1819570274053,
     "frozen": false,
-    "percentage": "1.47%"
+    "percentage": "1.48%"
   },
   {
-    "address": "5f2RhZkNioEv6iSeQx5knktr2FvRNRQWyGqoHXsmMgDz",
-    "owner": "Dhsqm2kPjqpEpfCkoj5mLW1GUoqWGVNRYZBaXDt5EFX3",
-    "amount": 13393535932974,
+    "address": "EHRsBPFTBNd78c2ShufKVHm1x1stncjPGNpxpKo63zJh",
+    "owner": "6ohhdjQ1WJVgNw4J1E11QBkakznpeiRcZWoYJrRpC6Vm",
+    "amount": 1782957184771,
     "frozen": false,
-    "percentage": "1.38%"
+    "percentage": "1.45%"
   },
   {
-    "address": "5FUhtCxJcogsSuv1GqhRo1iRxEmjjGUmN5XFejHiUBJU",
-    "owner": "4sBpu9L1rQj3YpoHSKEhJMU8fKSswAx1pjaySsN7tjTf",
-    "amount": 13180091595665,
+    "address": "3txsoZuKFV4tGpB2ukqqNUTdkhiuLSzSf98WTQoTVj9L",
+    "owner": "2NAhq1nRyWULovFv4w4VcLJdjwndTCDoMzpThtoV3NVu",
+    "amount": 1753131706709,
     "frozen": false,
-    "percentage": "1.36%"
+    "percentage": "1.42%"
   },
   {
-    "address": "5dZHozbcD6C47NomTzcGRaX62UNDu9t9E1WZpnVVnwZd",
-    "owner": "2K1kciajK6uBd5MDmffb8bfVhoRZCXsiNcKo7S4XJ9zX",
-    "amount": 13081448221656,
+    "address": "5gjbLJYKFrkjyZaFXpVBYSK9dM3Kg8paLu9TjuisQy13",
+    "owner": "A3QExHRFhKegf9fbEtCDLz4Qr7YMpHn3Zs1FjxQHfoo1",
+    "amount": 1722596725766,
     "frozen": false,
-    "percentage": "1.35%"
+    "percentage": "1.40%"
   },
   {
-    "address": "HKyuGaoes6qVtxE2mN9ik8QWQu63J5HwiTskEPrHdWf9",
-    "owner": "CSd9Dfa4zdFXri92C7ERpiopLteLfW551TRgHkpmADW8",
-    "amount": 12164098874858,
+    "address": "G8bgwXq8Z5wYE4hNGJyEVqnxewQRiJqYsTVuKtb4N7mP",
+    "owner": "4UV9869wZDkHJS1WVD25NPG1x4FnPiqSxTBiN8CMhW48",
+    "amount": 1713889326855,
     "frozen": false,
-    "percentage": "1.25%"
+    "percentage": "1.39%"
   },
   {
-    "address": "8GHDVrXaMuoaoGSmnZPAztov9uLFzmog95gUfMd9esHh",
-    "owner": "9gqHqPJywL5BnDyZoikDqTbu9i8Kz2J9XtBzkQyAtdWX",
-    "amount": 11983163539647,
+    "address": "7CvN1doBGzu92TTNZnswSMcoJQBrGSfR3PMxwVkBgyBo",
+    "owner": "79CxhdY2TeFHpGNcaHgnHJTWnv7KA3KgMFoeHrJg77ru",
+    "amount": 1529796382288,
     "frozen": false,
-    "percentage": "1.23%"
+    "percentage": "1.24%"
   },
   {
-    "address": "2yF2LgXxFqxUatDasdsAVvXej7Aigx8DjQLoMD3aNZZN",
-    "owner": "2572ZoKb5Lnp9N3VB4XgjKdejhTGYzUQZNS3gZEtHA6F",
-    "amount": 11692497078780,
+    "address": "uaTP7i56GS9xGMj44CUoX5YM6KaZV4Twx4RVtsWqAxH",
+    "owner": "7ryJyS5wP5UZ2zMNdsKT2MdGLwFGpsdHGEYRn4HStif9",
+    "amount": 1443744221547,
     "frozen": false,
-    "percentage": "1.20%"
+    "percentage": "1.17%"
   },
   {
-    "address": "EtAHJ1Zb2nKmYUWyseDUU6nqkCHenh21Cf8fd4cGB8z6",
-    "owner": "3YvgSTtBRWKxNbQT2gUvnzRS8jmK922byo4Rxx9ht88n",
-    "amount": 11589391571278,
+    "address": "HwWMa9L8Jo6hrFo4zsVVKyZfU2KWahCDT2fwNYJ6cNsu",
+    "owner": "9wjVLT1y1kWBG2zqh7nF71A6fFEkn2KjvGpJNFv1aHjP",
+    "amount": 1442760805650,
     "frozen": false,
-    "percentage": "1.19%"
+    "percentage": "1.17%"
   },
   {
-    "address": "DGTH4hvGMdCimUYN56Ej7zvrYtjv9oNrt1c4zFs4Ec7a",
-    "owner": "CFpTsT9C119sQt5Fefq8hKGqoioRMEtBpxatCwUkmmov",
-    "amount": 11550083842812,
+    "address": "4tSxhFYwaz6F8etCRhqUTj6GHerD6SzAYsQrCF5ErDZu",
+    "owner": "CUtitDvFdk89MHyKciMXieoUUKzLkamRuZKg9obcchcr",
+    "amount": 1434454033373,
     "frozen": false,
-    "percentage": "1.19%"
+    "percentage": "1.16%"
   },
   {
-    "address": "sHNRMG1gz74pnuf7ZGiuMGYNr3Ay3GNnF25k91e4BhH",
-    "owner": "9GvnAbMM6n4qSW4MsDDhVDjjN4hRrDeyyVGvDSMBL56m",
-    "amount": 11179637784182,
+    "address": "E1qJiDathrVczqwowXua2nHXmx4hA8fKvwzUTQnarUCb",
+    "owner": "7AZ5vivEZCu9VSVvmVdsPj3RseMAtoZjoDu1UwfD4SV8",
+    "amount": 1363272658965,
     "frozen": false,
-    "percentage": "1.15%"
+    "percentage": "1.11%"
   },
   {
-    "address": "9PD2UjjuqEuqHDRQk8FPuiQ53gwcpSJtBUfix5yM5Twz",
-    "owner": "EJAXv5kKmyb8LYJZoWSafciHZjoUYbzqVMAM2A3ENUsk",
-    "amount": 11088652339843,
+    "address": "7gGKcf6sNKg42npiEuzhHeeCXRfUokdbE8S5xdApxbW3",
+    "owner": "CAkLz9Y1uTtFgC33pAVnVcu5BHZUcH8dfg9k3CaaPC9C",
+    "amount": 1348781356289,
     "frozen": false,
-    "percentage": "1.14%"
+    "percentage": "1.09%"
   },
   {
-    "address": "FYcEYGm67vf61JYbHkCKFpRrvNE8KmHQpsS7CJ7X7p9A",
-    "owner": "Aw2wrYiAPaxX6XwmXDBUaTnE85AWs13VYQrYf362hsft",
-    "amount": 10853577174776,
+    "address": "8azk8XkdrEwVmxDs1AUau3Kq9BHR4QU8jJnMTAkyPR8E",
+    "owner": "4w37nAyjGGbNsC9b8KdjZG42M2K4Vp3WX3zfm9ChQXF5",
+    "amount": 1347259727325,
     "frozen": false,
-    "percentage": "1.12%"
+    "percentage": "1.09%"
   },
   {
-    "address": "HVWibXGYwnyMiPoQ1iGjzXW9vzkspUrtj7irjYgkaXEu",
-    "owner": "91G9jJn4AdNMSzjaLtDwaUhQJhRjdNiht5kEaGFoArtC",
-    "amount": 10379966640486,
+    "address": "3gVYXyMBxmyrB36N7UdNqmeQUq18ur8mopvb7GaY8aU2",
+    "owner": "3VZFqNoQL5T3tUFXmM6JUMXRjRcERRHtDLTJwAqdERd9",
+    "amount": 1321663269017,
     "frozen": false,
     "percentage": "1.07%"
   },
   {
-    "address": "3pTkZerLXELAC9CM9NH4bCs6fhEi5qKWop4DZBktx2Kd",
-    "owner": "3ryKVeEmZq3dP6mXd9nRfTnk4tMZ8UagFj1KzHMqoAXC",
-    "amount": 10146576964122,
+    "address": "4SxCetTCipacBcRcqUeqS8nV2avFxcjfFB2pGgjKBdZq",
+    "owner": "FGVPhLUvapY5YwUHhPrYoP8iX6gYCUK1RYcdnyauXi3b",
+    "amount": 1244834239111,
     "frozen": false,
-    "percentage": "1.04%"
+    "percentage": "1.01%"
   },
   {
-    "address": "Drfi5xc8KHvPyVpRikHZY6PNnWRsQ369chijiiuLXEVG",
-    "owner": "5mZWsMUyXy1BzbLxN7UnPHHAvtnfJtyCMiw7P1PkYif8",
-    "amount": 9506336118942,
-    "frozen": false,
-    "percentage": "0.98%"
-  },
-  {
-    "address": "EiCCN3Lw2oRJDHWBLo2bdR7TeWMLN9LiCTG2YcfwKGd",
-    "owner": "FvTPmLXGVDuVPW5eFZ4P2FDj2Lzkq6f6C1ftKmeg85h4",
-    "amount": 9393176333941,
-    "frozen": false,
-    "percentage": "0.97%"
-  },
-  {
-    "address": "BK2dXEGda5Kd5xqLKNQvbCZXDHEr9KsxTrng82M4i6Vs",
-    "owner": "t7DVrygHi7n9YKtTiLKR1tDCA1VQ6ksmdigGvf7GVTQ",
-    "amount": 9327920050479,
-    "frozen": false,
-    "percentage": "0.96%"
-  },
-  {
-    "address": "F1mCcckYe6WyZy4pucQEZ5v9V51AzaWgmqp7XQYs6eWF",
-    "owner": "5zHoTZSUXijE5brSN1gRg1ART7m2RJ3Cszurz1ysCvyc",
-    "amount": 9088448732398,
-    "frozen": false,
-    "percentage": "0.94%"
-  },
-  {
-    "address": "GGj7xwsfv5N1nDbzcTK5BUW3pZS7iYtKhmhr4AYxSZex",
-    "owner": "D7ZSBeFvC4MSo6y1oGX1ftiDUDmLft4qsnebaMDExBUP",
-    "amount": 9034175140457,
+    "address": "2wa1HJ4fhxcHGG3wKurNnJao48PWnu87VcZDFz4d1jPC",
+    "owner": "8WuL71EQdbBfAUsoHd79XVuUiNhud4Z7s88BdcsBnGsL",
+    "amount": 1152986709051,
     "frozen": false,
     "percentage": "0.93%"
   },
   {
-    "address": "9UEo3Nnfr1iV16LZo7KaWd5qtmLFF9rkVBnRDy25XXe1",
-    "owner": "Gnc56B5xuQ8ct7MGEovJRPqXRokJdJhv3rjqyH7KGMkh",
-    "amount": 8677957227744,
+    "address": "2ex8Kx1SiGoehSFYYzNu2dXSRzRRb8ZzUqVTFs5szZcx",
+    "owner": "275yXr8at9o1KS8E2y3GNMVWVrteuFMoyGULZ6Ut1RAL",
+    "amount": 1098222137999,
     "frozen": false,
     "percentage": "0.89%"
   },
   {
-    "address": "BsDKaoTUxKLspwepfyJQk2Lw8mMkxSEmQZFfpTSCpM7o",
-    "owner": "5xSyKyhb5XNUuHFG9DuMV3EdVLLX1dpNN4UPybqjUq8T",
-    "amount": 8636099313859,
-    "frozen": false,
-    "percentage": "0.89%"
-  },
-  {
-    "address": "HKDBVRbrdX18pJtmZeXqf2MrNvCVoKAJjihvQqXq6S1a",
-    "owner": "9VBd8oGppAYgiw4HU53Huj1gEioVQNDHig6iR2hfcmmk",
-    "amount": 8548145208781,
+    "address": "EpjtzDATQ4bEo58pAjJxfKh1q5Vdk4RxogNaFhk3t2g2",
+    "owner": "G3jgJzAEoQRzPpg3xaAd4UV1hkkHgoSXLdYqNxTcN4xX",
+    "amount": 1089468970245,
     "frozen": false,
     "percentage": "0.88%"
   },
   {
-    "address": "Faqm1CrS5ovZXopeiLotVTs3SfyfgfVffGeAWV31SSdz",
-    "owner": "7vE486yTYM7j9ppMgtP5gwPt5sMM4Pk7f5o8c9FEW3QB",
-    "amount": 8198835220968,
+    "address": "783hPL6UpHCyGLkGurFvJwvKKtKwSxQmqaLTyqReAsv6",
+    "owner": "9GAoGGxeNCePgDmv7zN3XAdNLDw5BofLA2MwC2PrgS31",
+    "amount": 1011937423925,
     "frozen": false,
-    "percentage": "0.84%"
+    "percentage": "0.82%"
   },
   {
-    "address": "2Sp2rw18uHwybcVfAQiguF2REiMfkPZL4bZctDiMMz4U",
-    "owner": "432wG9P7egziRycVrWXx4esf9Xqa6f2K1tvfWo11CS68",
-    "amount": 7472677943353,
+    "address": "2zP6dg8b7iHWhavJJrM19htK6WyEBzybhrXCdkfivEEP",
+    "owner": "DbH12UodYDpJMxmHxrsdxEbAMQbiormShQ6uMnX66xj5",
+    "amount": 974227793173,
     "frozen": false,
-    "percentage": "0.77%"
+    "percentage": "0.79%"
   },
   {
-    "address": "5M7GkwxoukdTt17SQRfkiCoaB7RYG3hqfDctgfZckC19",
-    "owner": "EknPtwcPnQc99mThduWcmKrqThzr6NTj1qSDkNxMMhqE",
-    "amount": 7415603685358,
+    "address": "2VVmBNe7ysEwprNmHoPGCwUeGAqWr3ZgLGPv9KU7ytif",
+    "owner": "Ez4PFGQogjsHJARSjS6dADLKRZwAhQYFFKSLjCVTE6tL",
+    "amount": 897620978117,
     "frozen": false,
-    "percentage": "0.76%"
+    "percentage": "0.73%"
   },
   {
-    "address": "4r7JJXjDLbJyXEx3Kr3Xok7MZaZJE23v9AHL8tVjhuzA",
-    "owner": "9kFxaW5568Nntp5YdGFp3B6xcGs3fsyMV1Na6Ex51aYb",
-    "amount": 7339865729298,
+    "address": "GZGNVst5bes9ohKfuSufqmroLCLscX3jkn2ubXiVs95t",
+    "owner": "BbbhHqxzLTFxcmbMni8nV87jVdJin2eF24Vz2Lwojakb",
+    "amount": 864575222083,
     "frozen": false,
-    "percentage": "0.76%"
+    "percentage": "0.70%"
   },
   {
-    "address": "14sDUe284r8G6ZoTsbomDmnoNBCZstbze2KPSZbZwFLo",
-    "owner": "AQj9QYTPDVFi885PAaGq16AwEJJsX7zdHcixBigwTLFN",
-    "amount": 6609323727925,
+    "address": "2qMNJFFCoLXo99RAPMXhLWSKDWoWkJNWB1rPCmEoW4Yb",
+    "owner": "DuwcA6gp4RajxncWUQCwHVJbej9jCH9sUNVrvHFH9WBE",
+    "amount": 832993796543,
     "frozen": false,
     "percentage": "0.68%"
   },
   {
-    "address": "CpiabNbFLHugCpbz3up7ZMNrF3WYYTLa5FyWTdSUm1kK",
-    "owner": "8vNCHXxdfXzJyJGGDgrHgisN6eenpMuHEJU2DF3q9iHx",
-    "amount": 6335031430731,
+    "address": "H7huwAgUCgZLf6cFCTR6EHPTGz5mbkXfF6hEv4iLd2DH",
+    "owner": "DmgejspteFuhwatMYdbpFc1QUBE5Rqvs2cHPHY4etfcs",
+    "amount": 832740931623,
     "frozen": false,
-    "percentage": "0.65%"
+    "percentage": "0.68%"
   },
   {
-    "address": "HLZEcMdDwiYGAFHpE3m5aV9VXL1E8xeaPRALBWaPyGkX",
-    "owner": "3m2TsRwH2yi6cGN3TyT2HL4xYVaSriaXizz86diKAtxD",
-    "amount": 6026703307730,
+    "address": "9ad6bJET2BtDy1JUXnp9j8bUtWnrRkaCdDyDAbY7PubY",
+    "owner": "Gh21d5Pu8aP7yTE5h1DFiYktavqMQDRUUviT8oQJT3zu",
+    "amount": 777197583964,
     "frozen": false,
-    "percentage": "0.62%"
+    "percentage": "0.63%"
   },
   {
-    "address": "DVaXcaSdUsPpFwJrUSQZxsytbL1BRvaKCdzXHe92GkTA",
-    "owner": "DGr7TkEi2j9RTfZja1PDtz8RdRNtjwGLGkN3ShFdZqPD",
-    "amount": 5654654609381,
+    "address": "4nbyeqXNPNr25u1BLjomKxW7AiA94BKYyCnk8AecB1kb",
+    "owner": "A55hxx9xyg4HKMPqVzsD4PM5ExdHxLEnCrP6zYk89HgL",
+    "amount": 775764893683,
     "frozen": false,
-    "percentage": "0.58%"
+    "percentage": "0.63%"
   },
   {
-    "address": "2BYTZmYfQE4HmXuUWVVF1wLj5Gz5W1dsYGfvK94hejEU",
-    "owner": "EZBbaxg7YqWo3XMAsTThZJEmTC9Dv78F5aB9srvsCtJg",
-    "amount": 1561618215514,
+    "address": "2q2CeApnyn4GS47niMYz3QhcvtNFmgSKC8iiekXadjVf",
+    "owner": "inkXH9Y1fE3hvgEH75He9ox7guFjDbFtzhnXpDBhcuc",
+    "amount": 701336998973,
+    "frozen": false,
+    "percentage": "0.57%"
+  },
+  {
+    "address": "496y6ohjRKECKwB1XXj2LopCstugfcD5kSFWmHMet4Mh",
+    "owner": "a7QoT8GmdYrjgRs52YojCxXVuyBz6np6JJfBSZMsmkg",
+    "amount": 698342909882,
+    "frozen": false,
+    "percentage": "0.57%"
+  },
+  {
+    "address": "2AdDWc6R7yVztXCEnZaVJSYpSgNw92bRKZJJ1VewwnwP",
+    "owner": "5Ji4GHPj6vuqfhKhZQ4MVbvi4CgyPPNGe8iyKm79mQrU",
+    "amount": 687459845118,
+    "frozen": false,
+    "percentage": "0.56%"
+  },
+  {
+    "address": "6YwmqJWMZgfz86BZxL76gwT6wg1NyfHzNK5nsY7EughD",
+    "owner": "9kn1QY5N8UactSGySrVT4jk1C8B1Y6r5iJ2bhVZGARMM",
+    "amount": 673671351961,
+    "frozen": false,
+    "percentage": "0.55%"
+  },
+  {
+    "address": "HwsQ5fGSGjkp6TQxaVgav1H1MxqwpnH1t1SNXJDgHqQq",
+    "owner": "4Pp9PgEYoNuZUKeo6R9rLiC1DocYiba69LynQii7Ac4H",
+    "amount": 625918845219,
+    "frozen": false,
+    "percentage": "0.51%"
+  },
+  {
+    "address": "Dqs8uBDM3E6mNLzwxqb3LFqRP9BKynCJ3V5AcEigGBgk",
+    "owner": "6gM7gym53axsBtQGR2TUQBn9U7ffXuFBzWNmunfKpKQg",
+    "amount": 619915286793,
+    "frozen": false,
+    "percentage": "0.50%"
+  },
+  {
+    "address": "7itS8ZwBTMAMtW9mBAogsMGo1iYsFhffjQLwyvw1fJEb",
+    "owner": "7dZvEieXqSgukJVFBQJnJdyKsgUWumkZujU49SzyZ3Zq",
+    "amount": 610318231532,
+    "frozen": false,
+    "percentage": "0.49%"
+  },
+  {
+    "address": "2LJESkgqLYtXG4rN4GHnZZggbdQvHm8Fuhuz7aw2SUAy",
+    "owner": "CUnBfen6EyZANPXmDkLcQnGm1rYjRmjifGCv4mN9DP5f",
+    "amount": 601165354773,
+    "frozen": false,
+    "percentage": "0.49%"
+  },
+  {
+    "address": "BEThzLBbzqimckxXH5QFfqXwH2vWQaNa1AeHWgt61ifV",
+    "owner": "BtotQoPCFWn8N5pbDLSXrmjUX6WTFDk9iJvATxyJBgVq",
+    "amount": 600815934401,
+    "frozen": false,
+    "percentage": "0.49%"
+  },
+  {
+    "address": "8xG9H5bJQBmrxiH2qRYopedE29C58LR1oowx7BgtD3Yz",
+    "owner": "Hjror9qv8tdBFNV4Xfxq1CDBhRT2Q7ZyP5K3P5CsFmf5",
+    "amount": 584343130551,
+    "frozen": false,
+    "percentage": "0.47%"
+  },
+  {
+    "address": "43uFTZY9eNC4yVfoztJYNrfHvfGimQzcQZkL2QB6H9Ce",
+    "owner": "6CGXM7A1vaf4ukFHpDMUqws8YdYRopH5hsmzskHRSbCg",
+    "amount": 566812080070,
+    "frozen": false,
+    "percentage": "0.46%"
+  },
+  {
+    "address": "5LX1TytQmHBuAt5jAfRH9Gj2kSmzdyxMbwHW1xoQKE7v",
+    "owner": "HaK1pBQpMfds4XR5HfNXEcaGN5YPJkG1fgHaoGB2uQ77",
+    "amount": 560244217576,
+    "frozen": false,
+    "percentage": "0.45%"
+  },
+  {
+    "address": "CJuJUJ3PCDwBYL9mb498WL2a8At3zgYGqqwznd1k4USC",
+    "owner": "8QBYreeinX2n4GXkwn3SyBUojMnX2i8URxyu1doENDxP",
+    "amount": 534933850349,
+    "frozen": false,
+    "percentage": "0.43%"
+  },
+  {
+    "address": "Gg5GGy6AoS3gNyPqpqVYZTBFtMXW5PDwf4DSTyhtwzw4",
+    "owner": "35c8e71aEHUYV7Qpe2PDv8tRkfY52Mt3RfGwRYyMz9s8",
+    "amount": 531362638207,
+    "frozen": false,
+    "percentage": "0.43%"
+  },
+  {
+    "address": "EVzXfaDeKGUMgoVke2Sgmo1FSmuSAVWT4QKND4K4CgvL",
+    "owner": "BM1dsADLz2BVrCh3BpXzd5ceqTeC65t8zPdUmanQvDHx",
+    "amount": 516412747620,
+    "frozen": false,
+    "percentage": "0.42%"
+  },
+  {
+    "address": "FfbpqvNypcKwZAhBgcPi2vmdD3qW2GQ8Mk2gR9tKo8Vq",
+    "owner": "H6TW6Y2KZKhEeAQuYDjYkSzJoRmfJV13CvtM2Zn9mBrw",
+    "amount": 513435269817,
+    "frozen": false,
+    "percentage": "0.42%"
+  },
+  {
+    "address": "5hc2ZYXT2D7iLVXH5Unq1KG31yanH2Qc9Shcv1T7Zxy",
+    "owner": "9j1QkkkrYumu8UKcmWQorNaa5KMAmeK3kmdUc2ANiMq7",
+    "amount": 496466839519,
+    "frozen": false,
+    "percentage": "0.40%"
+  },
+  {
+    "address": "7GvGqcxjXrzvho3DjTCUWQMdVvLcyk5TvLUjDeDT3gF5",
+    "owner": "6mg1gApUxsRDFFmjTbBTCqvn3KERTStWkFSqyAXYyDDf",
+    "amount": 491914158414,
+    "frozen": false,
+    "percentage": "0.40%"
+  },
+  {
+    "address": "CxXpbx5HJGxTxc3rLn4ALkgvMmpY9oZcbYqbB7LAzTi2",
+    "owner": "GUCPUG8QgQ3FqYekpND3TpWEaz3zDwiwkVqubj35jzbn",
+    "amount": 484326404733,
+    "frozen": false,
+    "percentage": "0.39%"
+  },
+  {
+    "address": "CiwVFZNocfyFajhT7vd9VydtioCXj16ewbx4t4XEd6Hg",
+    "owner": "7h5nKVMLrGuDSm4J3fABnWcM829S5XPAyAC3k25fhtvL",
+    "amount": 480649235997,
+    "frozen": false,
+    "percentage": "0.39%"
+  },
+  {
+    "address": "8LvuKJPbevpfdSgfXRrgiRuJFcdpwPCgdoQa9ScoQJsa",
+    "owner": "8mpFDJLDUkkXiebXmPLSgLL6FT7kLb8ig6DCcWzfTf8c",
+    "amount": 467470965070,
+    "frozen": false,
+    "percentage": "0.38%"
+  },
+  {
+    "address": "77EyWGRACMFrzmtUvn4MsUd43rDjVkk8cjWzZCWGFbV5",
+    "owner": "4n8aGbRWkA7XZhxYHDYrxVzMMw2MjbQ2X2E3U3abXHkK",
+    "amount": 465588254332,
+    "frozen": false,
+    "percentage": "0.38%"
+  },
+  {
+    "address": "BPTpDi2YArrBwfcdR98rvQcyHqAXEA4wbMN8raV5fV12",
+    "owner": "7SWSL5e9twN6nyn7p9VJAfZtr6rvhuUy3hH9XQwoRLGn",
+    "amount": 464439407573,
+    "frozen": false,
+    "percentage": "0.38%"
+  },
+  {
+    "address": "CRX4NBU5DcaBZ8BS8pVbYBj7ibcm4rQMZp6UmtmonFkv",
+    "owner": "23m689dUh1WUY1gZsoKabGxFm1n91SDzUXbtLhH5nT12",
+    "amount": 431888820702,
+    "frozen": false,
+    "percentage": "0.35%"
+  },
+  {
+    "address": "D9cNEsAddfcwzmr3gLxr3BNJAGeYYkkyP3DhKup5n1ku",
+    "owner": "ZG98FUCjb8mJ824Gbs6RsgVmr1FhXb2oNiJHa2dwmPd",
+    "amount": 426287909989,
+    "frozen": false,
+    "percentage": "0.35%"
+  },
+  {
+    "address": "VktvJSktiEtWE1anfck38wtwLpGnDSyyMp3scZRDY8F",
+    "owner": "5S3EVsV2yiF7srpAG2z9AinggfHRRSs2zKNQuL1fzJQQ",
+    "amount": 393061586378,
+    "frozen": false,
+    "percentage": "0.32%"
+  },
+  {
+    "address": "5eHBWFpp5Yj3GGJwdnR8eGUt8jkidXiXS4xpKpG3HGSR",
+    "owner": "3sUQ4xtpmygFUyRdFPksF2YipBiL2b6pDh4sZZQkU1rc",
+    "amount": 373900176183,
+    "frozen": false,
+    "percentage": "0.30%"
+  },
+  {
+    "address": "Ga3azz9487vYkMmaR9EXHH2PJmhjK8CUhRoW8suxSaa3",
+    "owner": "j31zEyYquPPDKKPxn67y4y3ELLQ3Fu1BwpSVDcSq9Rv",
+    "amount": 354722023168,
+    "frozen": false,
+    "percentage": "0.29%"
+  },
+  {
+    "address": "DjDPi2yVy5EUCxg4PrEDQM6jDAu2bWzR8CVdhGFQQh4h",
+    "owner": "2gJYJstfokXovojvJz3iyy1YcnHc1VfFdSWcKAthXGus",
+    "amount": 347781555418,
+    "frozen": false,
+    "percentage": "0.28%"
+  },
+  {
+    "address": "6bJrJDUsc4WicKQwihnqniEkZheP5CFVQHcHtomNN7uk",
+    "owner": "7fQpuCqFp9Dw3e1N2Tw45gf1rXyyDhmWJEPVQZ1a9iDy",
+    "amount": 334111160876,
+    "frozen": false,
+    "percentage": "0.27%"
+  },
+  {
+    "address": "8ArMQ6Ve5R6J5g1tfgY5zVbrZa16JXSLdAS8DP1hXeLP",
+    "owner": "AikrNFhmQJZCWrhDNAoFbuGLMfGem9kiZP5kKi17c8B9",
+    "amount": 325731360335,
+    "frozen": false,
+    "percentage": "0.26%"
+  },
+  {
+    "address": "79Rte5V7bBn1pyqNSHyC7uYPtxERXqFV2KQq6Co45vAZ",
+    "owner": "FdUiuLyKgPDNxAsJNBdZhDmczt5LX39sWFYbMHJFruQm",
+    "amount": 309344069663,
+    "frozen": false,
+    "percentage": "0.25%"
+  },
+  {
+    "address": "CbW2W2YA7DCEdqSEN9YDcxg5x1qx1EdToYMmm55a92zo",
+    "owner": "94b6TcvEJbkDiF2iPLuiMGGnzcbYopSSMx5BMTXpyenq",
+    "amount": 302402085316,
+    "frozen": false,
+    "percentage": "0.25%"
+  },
+  {
+    "address": "DTVFVyUYyPoQe3QqFVXSiqVfE3PQDqDWohP3A4p71f8P",
+    "owner": "7ymzMppbnz1S8qto9aYLSbwTHB9FEjJz9xsEqvzytE1V",
+    "amount": 298998896902,
+    "frozen": false,
+    "percentage": "0.24%"
+  },
+  {
+    "address": "6ZALw5jcZjs1in5aPM1wUj9MPYRxCxv5xSVopbLHQdyD",
+    "owner": "9UeRotxuTnpHbfQPdrcMkCbGMd8VgNiV51mVTMMuKYpb",
+    "amount": 289309934146,
+    "frozen": false,
+    "percentage": "0.23%"
+  },
+  {
+    "address": "DX4vLph66UEmWEm9mXkEEnmyGKxD5rFzvRjPNLH9x2ag",
+    "owner": "HQmvnrVdRwruCMCRJiPRkcrdetAmNfS6nnLtXLE5tfuM",
+    "amount": 285747426640,
+    "frozen": false,
+    "percentage": "0.23%"
+  },
+  {
+    "address": "H1XkGCA5iLniUmyNs7V386qCR9Qgo8ygQJmE9jAvJ8fK",
+    "owner": "66q1zZHkJvm8WEXJtSN8i5ss4dEdspgALYQmzKF3rwkU",
+    "amount": 279901747804,
+    "frozen": false,
+    "percentage": "0.23%"
+  },
+  {
+    "address": "HFRmwWLMrieuf63BLUwVqhNVcTRJzZMafCDLTbKK5ayx",
+    "owner": "CCLKe44ZudWBye9LcMAWA4TvLcA1z5ochWZ11Jwixgvp",
+    "amount": 275493940350,
+    "frozen": false,
+    "percentage": "0.22%"
+  },
+  {
+    "address": "BgLbrDtj2pomcwaP4aZbB5TThDiiFNanxTyacJP5zK24",
+    "owner": "5qurUyGfWDHfwwx1NwshcP2ty2MbnZyFNNjXdYS9cQrM",
+    "amount": 273274425240,
+    "frozen": false,
+    "percentage": "0.22%"
+  },
+  {
+    "address": "HsSUG3fJpt8ordRYWYeFeVEuxta874XpjPVf6Gq8wMPG",
+    "owner": "HcwCRTzXdz5ofwxzifHhGsxdLMnz2EMYUqDUcSjJuVrG",
+    "amount": 272612834702,
+    "frozen": false,
+    "percentage": "0.22%"
+  },
+  {
+    "address": "D8jDHr2mtQtPC8dn65ahMXx3svffL8jiApk2GCS3rHKB",
+    "owner": "Gqy8G5cFxjKtYapMjDhgKkFkJkBU8ftGXQUhmqaJWnvF",
+    "amount": 255660118165,
+    "frozen": false,
+    "percentage": "0.21%"
+  },
+  {
+    "address": "CtsQhKBR3cR8QFwpWomWRLQ6E2nnTrLwgwQidvrrzvDf",
+    "owner": "9WsvyZyP2RUbdgjzQn5wPc9RgoJ987GScsKCE8TrScJz",
+    "amount": 255588197338,
+    "frozen": false,
+    "percentage": "0.21%"
+  },
+  {
+    "address": "4YY7y9pjm6u2qwrsnZywYNZLoAfVBzmfAGhQfbQH3T6i",
+    "owner": "9rF2a5R4cDxYUsUBc4XLG4DA31BmaHqHKd3pVAiGCLuy",
+    "amount": 254264272377,
+    "frozen": false,
+    "percentage": "0.21%"
+  },
+  {
+    "address": "4frN3caHpVcE2Mx4mk9CW6qeNDszHvEmWhYVovFLpG3u",
+    "owner": "3Q7DiFiERBHac4iUapGbKsUVR7pRqduLhPahEbH2F1Fn",
+    "amount": 249556672123,
+    "frozen": false,
+    "percentage": "0.20%"
+  },
+  {
+    "address": "9oH4Vj2Po2wu6GiCsRAkTt6TV9UUQiXtDZf9QHNigpaA",
+    "owner": "2TK4R9qwhxCRsXTjaNKgrvtA8yc6uPZEGgEy4SAnhnFN",
+    "amount": 246692985599,
+    "frozen": false,
+    "percentage": "0.20%"
+  },
+  {
+    "address": "9BsjmMS71CQck8Wv32xCm1VFv3inKowCkL4NBHXffTzK",
+    "owner": "AfjHxzrsVjS7BKCRdbFoUuLRd7PBaW2TCgygyT5qxrpc",
+    "amount": 245783606001,
+    "frozen": false,
+    "percentage": "0.20%"
+  },
+  {
+    "address": "81bqwVhQ8dyjH4UNqR8KAmevkQ3z2oRMeyNAY3sV3e73",
+    "owner": "4mDbVRxqY4Xe2U5RB3y29abUasTe2357QF8bf8R9s1yL",
+    "amount": 239410794159,
+    "frozen": false,
+    "percentage": "0.19%"
+  },
+  {
+    "address": "93KGaVe6t4ADPfVBTxftSfJcDPgcvUnRTxMEEvkUeEJ9",
+    "owner": "91uYd3xJ5ur5ZSoxYRB8QUk2cygn5wdGJ1KYhi8hBHwd",
+    "amount": 236441555002,
+    "frozen": false,
+    "percentage": "0.19%"
+  },
+  {
+    "address": "DfRKMX753mHmG7R5fCgcWmZvFWM6Y74LtZrid9Cts2ou",
+    "owner": "72nnAFjHeKTDUpHM6cd9HHyoBfnyfjLpkGy6AeCbMu4N",
+    "amount": 225975092030,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "Az662MivpvywvAamyjueeT81V9YBDM1PtFvGUeQMYksj",
+    "owner": "7MC5EFx8fs2MeF1xwT8yaTzEeE71gL1SZ19TNEM4rcHM",
+    "amount": 225888623499,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "FbjtwU6acgVVRjFVKjx7nQhZFffiYc9X2SPSQE8DBaQX",
+    "owner": "GwPF4BavpShHWgsH1o2goJtoBXyWUYewwwaaL3GSL7Eq",
+    "amount": 223807677190,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "9d2e4UiSuCJ34xe4Gqo8hcqtnjXEGrijvNkPnB7z4b7w",
+    "owner": "6NrUCV8eWkEzyC6iyN9scgbWA5B5i4dHWToVEpPqvHdf",
+    "amount": 221520420342,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "3V6uwkndc4SNQJWV3R4Et8oSoVrx8AceSW977QMwPNuX",
+    "owner": "5qEb1SusmkfA5qL6ViavBuwJGdGSuBEq16buRAyWyLFa",
+    "amount": 220636263797,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "AEh6hSXBbYR1x2zR75bUnR69ykFYeHxMSD6L3Kk1Qdqi",
+    "owner": "2Y82v3CnbnMPggHLrfEg92mZDwWHWkZT6XjtRE1J9fYW",
+    "amount": 220347864716,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "7LN3sJELx75fZZgVw2L5i4DRpuVMtSdeGGCVn9oNSbDt",
+    "owner": "8R9MuR2bPH681CxFq13UTMWYzevQgDbzoFDnmRSsurty",
+    "amount": 219067017921,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "FW1H3Bw9Uxkq8v4VWhi3qjUgPQTmBYuJMG8vu19DNRFg",
+    "owner": "H5GfPmYtdrddL69vWafaKeqGqtiHLpSM11yvvPSc8XkB",
+    "amount": 218461754894,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "4dEuPSmqNHxhKBi4tVvjmg3V8vroECQE4UikwYSHGv27",
+    "owner": "6KqPUN4JsXjVzo44fJZxfErUK7wkW4QGqaGm3s9dFsag",
+    "amount": 217430932815,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "B8Ystpuh2Q5pXTC28cJ1a3WvF6rR2c394f5p6RNKArUY",
+    "owner": "A9CnVcm85cqMZrTjUYHeCGNP3yhTBQPubamrtztcy4sv",
+    "amount": 217349578174,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "9ETeDGxmg3uCjWbygfz6nfn5i8GWo8wQ1fFB3nwVufqv",
+    "owner": "DcQYXjwkASihdKWQ12TeehFCQ639d3YhTvexwM6CnuTG",
+    "amount": 216585916703,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "8TuqLtTLPwaUBtUNy7JRmkUjohTaQ5Z88tQmR8PCpDbh",
+    "owner": "4TjEzNL33hBLprUKgT7dhARKcKF3gQUGDtWHnVY8kHAo",
+    "amount": 216529761227,
+    "frozen": false,
+    "percentage": "0.18%"
+  },
+  {
+    "address": "BmUNsvubG8rVAxNSRF4MCx2sEBcWWLZ4gYQrbPFzQrkm",
+    "owner": "Fd1H7uoTQbiaQoU4UY7VXTWzEE6AGBcd9vTTnZx28geC",
+    "amount": 215831027134,
+    "frozen": false,
+    "percentage": "0.17%"
+  },
+  {
+    "address": "GzjsLQ9GabBX78r8BSuj5QqSaQgKs8TNaUYqWZ9653V8",
+    "owner": "4auFDfoo9B5K3KELUQG6uoGJr4KKEJsXBjKR7fhbepKd",
+    "amount": 212095991840,
+    "frozen": false,
+    "percentage": "0.17%"
+  },
+  {
+    "address": "7iSqsDjWRzt8J1ew8T959mh7JUfd1kv1RXWs6qZkHmz7",
+    "owner": "95JpHRZxW93EVV73u4sUdnVjSGWNdUvDkJWjUokDtEQW",
+    "amount": 208741869066,
+    "frozen": false,
+    "percentage": "0.17%"
+  },
+  {
+    "address": "C1eFcdQb5gvVZQoeqfCetpRu5tvYRoviwcPni91EH9Ap",
+    "owner": "A3fzttfxtdNyj6dpsN5N1weFEsw8U8apoDwtFBqa8hYm",
+    "amount": 198411269916,
     "frozen": false,
     "percentage": "0.16%"
   },
   {
-    "address": "BTVdMZnWc9z2BkwscA1wzMXYmsG8YUVEUiGKSiwV9y4x",
-    "owner": "9NV8Q2ovDEKN8UAzqfHVUpyQttMJZwb8sd4QEH3Pa19C",
-    "amount": 1450745816610,
+    "address": "7xBDTaF6T46Vp84BucgHTw3Dc1r5bK6F4QQHw54WkuYT",
+    "owner": "4QV3pKPAK6wMdCFP2VFhqW8TKD5mBjoALGM112HQQfQ9",
+    "amount": 196873122605,
+    "frozen": false,
+    "percentage": "0.16%"
+  },
+  {
+    "address": "FWbTL2pBK28RLacFhGci3E6kx8ycPC9RpyBrngieB1Yk",
+    "owner": "9BmcKaoz8LMa4AevqMKUKyqpYTMaHXmtb7XCU7TZQ7u2",
+    "amount": 196564089161,
+    "frozen": false,
+    "percentage": "0.16%"
+  },
+  {
+    "address": "EQJehoW5MCNyBKa4JFkc8ReWTtrpLLL1Y1mxa1tg5v4E",
+    "owner": "CoQ8M4GTNiVVdvzCK97vLMpJ7kQCnnsixW6ZEdiiNuZC",
+    "amount": 195915004141,
+    "frozen": false,
+    "percentage": "0.16%"
+  },
+  {
+    "address": "HPF3TJQGiJPxkRWNPAkwiVXTk3UR9prrctf8U1khs8fu",
+    "owner": "8MPAkai2svrXfCrGCTLgP6qxmfxGS6JVfYFBfY8rrYYG",
+    "amount": 193668547697,
+    "frozen": false,
+    "percentage": "0.16%"
+  },
+  {
+    "address": "4Rpyg5smesf34eW8umEN4Kza9EUFDXF62GM6b22yTCMo",
+    "owner": "3t7U6XPGJdrCym5BzzieUdgYrFe5yfNHbx6zBYNQs36Z",
+    "amount": 188306335658,
     "frozen": false,
     "percentage": "0.15%"
   },
   {
-    "address": "CirKoeQSDXaekiQJB3Dvg6fNNzDEyHHohX29ghMnmf4E",
-    "owner": "92QTz8PvVr6n2tJhbosT45y26hfYbbbWW3USD8NSCyvU",
-    "amount": 1022919129875,
+    "address": "EBufUGoJ7AWixiiP24AxyHTMz8FzocFtBSH9fZ9u4gwD",
+    "owner": "DcQ3MyT7ZcADA7hGdKHByiZQK69H19muB6KeFF5Bdhmd",
+    "amount": 185300315974,
+    "frozen": false,
+    "percentage": "0.15%"
+  },
+  {
+    "address": "FuvkjwAopysF1nwpDokYYFtwa7894JAgq5Qg6WDjM5iP",
+    "owner": "FNuy9WuptPjUSYTEWLL2t6njh8VmVcu8dmoqoZsCxP8v",
+    "amount": 184386330861,
+    "frozen": false,
+    "percentage": "0.15%"
+  },
+  {
+    "address": "F59TqMdzUy15fPBgGtetN1ojJvCEHhMYynsjYJy2V7EK",
+    "owner": "C2WcHrxAJ7EQctAsr35x2fNsZXGMLj4qFvfhQs5UvZJR",
+    "amount": 181609678953,
+    "frozen": false,
+    "percentage": "0.15%"
+  },
+  {
+    "address": "62UWFDtUckd9drUDVnLDoJZUpuV7eRD3o8mNQKAEA4mt",
+    "owner": "GVfYHhSZHmo8CcNNsqzCfNUyJ1ofTiquk1remEPRXwGV",
+    "amount": 180296498542,
+    "frozen": false,
+    "percentage": "0.15%"
+  },
+  {
+    "address": "F1H76sDxstQvrDwo7K7chfj7b966tsAhQkJXWHqKyQNR",
+    "owner": "DaLiSVDZ1t8rR5ptrA27D78RV7t3b15bz7DtayMXrQmX",
+    "amount": 178747635099,
+    "frozen": false,
+    "percentage": "0.14%"
+  },
+  {
+    "address": "HoGtuJim4DhzZRgGXarD1cpeUGvbRHw2VC1MQJvySGtx",
+    "owner": "EcKUzwixiUGgEQA3ha3NEBZTTzTrEtEqzbsmTiyFok2c",
+    "amount": 176806822293,
+    "frozen": false,
+    "percentage": "0.14%"
+  },
+  {
+    "address": "E11tF16Z7fmf4Aexk4DJk7pA5gKKnyPWQhT1CCH5ZKhG",
+    "owner": "BFNGtKL3hZ3ZDChW2cVmVcjeGXKHJrJAbyHKJ8nAhtFk",
+    "amount": 171908860716,
+    "frozen": false,
+    "percentage": "0.14%"
+  },
+  {
+    "address": "FookDFemPPJvx6Huc83D4p1tArVTxmj72s9H76yeNgkk",
+    "owner": "7xFpCujJCaYcP1kB9nZnkcGUjDT6qXiKDLEFYw7MnpNx",
+    "amount": 164892656079,
+    "frozen": false,
+    "percentage": "0.13%"
+  },
+  {
+    "address": "Es1QmRYYMmGfc61UzXdkP52tHE6iRHgUZSPodcvBAqPB",
+    "owner": "7gDoon636zCTJmZh83abr3KKkz1tt3vjHvrcZfFa3EEC",
+    "amount": 161934571413,
+    "frozen": false,
+    "percentage": "0.13%"
+  },
+  {
+    "address": "DXC94iQ7LHuPNihnSaNyANeNerwRPEY4whHjj9UebzWT",
+    "owner": "6UUUuiRGgF2DjnPxH4DB3dSaHRZKKGAZpSH7JE9YaR3c",
+    "amount": 159760945939,
+    "frozen": false,
+    "percentage": "0.13%"
+  },
+  {
+    "address": "4EqHyHBgCdyuujdfsBX2PKftuHv2kB35hJJ2UiwFi8zR",
+    "owner": "BQqyb8ichcaC5WoAeV4uEP4uFQtdEnnCADiHi99n2YLs",
+    "amount": 153008770309,
+    "frozen": false,
+    "percentage": "0.12%"
+  },
+  {
+    "address": "276LbfvGrk9JJJDNBzVk52vbv8ZSejwzvzgTcRpy1LWv",
+    "owner": "EEjU8bfuY2Rqgm9bfLSSZyuYprB2X33fDpbLgZFNtK7W",
+    "amount": 152968509546,
+    "frozen": false,
+    "percentage": "0.12%"
+  },
+  {
+    "address": "3UzFPB2Tvu99phjaDJMg39MXDYBUecXt1qK7TFFtj8CP",
+    "owner": "CbUaSmoT3mDHBYDj96Urjugdhos9MD23Sb8r6DVMpyf6",
+    "amount": 152082276696,
+    "frozen": false,
+    "percentage": "0.12%"
+  },
+  {
+    "address": "45Fepkw8KCghAh9zFW2L2C6mt1gDnL9Ut98HWza5L61d",
+    "owner": "DVBdFcNppSGYr58fDygYPpJgXzxbRb8FfeDG21NioLV4",
+    "amount": 151770000927,
+    "frozen": false,
+    "percentage": "0.12%"
+  },
+  {
+    "address": "HCNYtfHJ7Yg82PgcMjJEwcSnEjcTDLPCNVuXjeW7dWUB",
+    "owner": "BcZcm5z4VvFGSLqvWtWSJcCVdXna3qdqA3b24tmthbfv",
+    "amount": 149918709716,
+    "frozen": false,
+    "percentage": "0.12%"
+  },
+  {
+    "address": "HsmgtLyePNsDrkZiVJApM1aNtzv1i74CcuG1HzwG4ZL6",
+    "owner": "2SfCYChqo1veYvZZScKaBM3J2YTvViPMaKVJSQ7CVu3n",
+    "amount": 143508127196,
+    "frozen": false,
+    "percentage": "0.12%"
+  },
+  {
+    "address": "A6z424oZ5TJAstRPAhU5BW1y4kuc74Z1uhsc4HS4iSJm",
+    "owner": "2uUEuGUXGSVPuWgJk1hkccV29nYPrwJYLi4idQLtosML",
+    "amount": 143208556563,
+    "frozen": false,
+    "percentage": "0.12%"
+  },
+  {
+    "address": "8pVfopz5REUHM14P9tFTLNS79p5XkvUmsTXrFM1EiL24",
+    "owner": "D58x8Juqa39LMbxfcmrrR7GUKaxF5usoowVGD1SmRnem",
+    "amount": 137322819430,
     "frozen": false,
     "percentage": "0.11%"
   },
   {
-    "address": "3mwgS9v7BiPrjLE6URdGcPEAzetNkuync9FCZNpKDxWP",
-    "owner": "GzXQS1frr2QZrZ6QTJsgjH4TV4cXHUrVx9Hc5UQaLBj3",
-    "amount": 827904677732,
+    "address": "EZBMdsS2aVmeC3nSosUX8kVt5xxLDrcqfFLakp77zUbZ",
+    "owner": "GtHAWDrdyrNFKaFiw5Duz461xHU4ya8jVHMtcDBUhChD",
+    "amount": 137072078598,
+    "frozen": false,
+    "percentage": "0.11%"
+  },
+  {
+    "address": "CV4FLYDGbziMjVYUsHdsituP5KNRzF5gkYrRB3MFPo8Y",
+    "owner": "7X4WdE3cm7WU6VrJrC7Po4mpN5JHrfjDGpg1AzGgwoN9",
+    "amount": 136224628760,
+    "frozen": false,
+    "percentage": "0.11%"
+  },
+  {
+    "address": "5fjeXFJLAd77rp8rNaTkwu54woBJPwhcowQDZqcGfGsc",
+    "owner": "9oZUqCKuhhfSwn6LJ1qZiohbp9gLJCVFeh2bR2i4mCtp",
+    "amount": 135915781768,
+    "frozen": false,
+    "percentage": "0.11%"
+  },
+  {
+    "address": "EhJPbc7cBQUhX7CEpmF15KnBgFuQ7DoeCqNauye5yHHk",
+    "owner": "4YiCELWwxP5Ea4XoGyvrFq7MWWGiWSSKun8kMHsqRb6j",
+    "amount": 131560526483,
+    "frozen": false,
+    "percentage": "0.11%"
+  },
+  {
+    "address": "57p96L5Gqe3eLt9b66N2t9ZjUSdk54CBzSyDkQ3FTR36",
+    "owner": "4Bj8KbTecCFRfvCRwSKT3xe76wDgeSwhEorXxE54HVpU",
+    "amount": 122660885561,
+    "frozen": false,
+    "percentage": "0.10%"
+  },
+  {
+    "address": "BsrMr24jwpNR2X4AqLeEH8f7JfgSsq3XYFLUqDoLL91R",
+    "owner": "2D98KFAoQ4MTkE44GZJSjMsq6SJmLQC9W2S8XdqYuyP1",
+    "amount": 120573855484,
+    "frozen": false,
+    "percentage": "0.10%"
+  },
+  {
+    "address": "88S6VdJ1xazKDcLLojEFAarXbvk2fbez2A4XxS51pL9v",
+    "owner": "HHWLyRSWuLL1BC6rx4CMPn44B92pUecNKQU69VVqWCyM",
+    "amount": 120205030056,
+    "frozen": false,
+    "percentage": "0.10%"
+  },
+  {
+    "address": "5x65R6cfgZNJTCM6VAiQ3e94YFKVEGmL4D3RhRLgDcHB",
+    "owner": "B1wXVijetBbqCfSbSPAwXEqgNKguBq26aiosUxADYE7G",
+    "amount": 119975373218,
+    "frozen": false,
+    "percentage": "0.10%"
+  },
+  {
+    "address": "CTGnJPmZBViEkLmeWMR8CDTfPW4899ZybRbXgAAATWpD",
+    "owner": "DX8b929E1yD8LGjusKPdwBrZx2pcbvvTrPsU4KaWUf31",
+    "amount": 119883757978,
+    "frozen": false,
+    "percentage": "0.10%"
+  },
+  {
+    "address": "iLoxAbPDL5n1szbaNx55JzA6DCZZ58oryhL9R3fc48j",
+    "owner": "Gj5TG9FoGYL4PVDAvxLpTtAc7Gi8V4g5VxdphjW3SG4U",
+    "amount": 119746374180,
+    "frozen": false,
+    "percentage": "0.10%"
+  },
+  {
+    "address": "CEWnCX1gqBTaZWQYkfhzuxL669dNayhj9eDBUUXim27t",
+    "owner": "HsdPWog5YBZiTUu2bFS1t23j53ZKYk73V3iEqaJgyAWm",
+    "amount": 119381337712,
+    "frozen": false,
+    "percentage": "0.10%"
+  },
+  {
+    "address": "DtZtmKWbo1RRtp9qC6dqjKmnhwxADJ4fekzd1y2yTpeG",
+    "owner": "CdGdTM8KEG5wZVkZViEbU2j8GpBbMD2r7cNQBpm5FryM",
+    "amount": 119076712043,
+    "frozen": false,
+    "percentage": "0.10%"
+  },
+  {
+    "address": "7Vp6NBc42z9LHihpbiDrMWUMLad3AoW8xQ6U3kghTgxW",
+    "owner": "F21Bs9UCxjyf3TtAgZMPo8hsS3q4XauMkW7mhoUskALC",
+    "amount": 119017968570,
+    "frozen": false,
+    "percentage": "0.10%"
+  },
+  {
+    "address": "BzKSW7JW8XNR88tDyCi1jQpJeVNj3xh1awJ6jqfawWKf",
+    "owner": "DRo8NC7MLC5nZG9oeG8eua8YnzEFJSJAxsZn46egGd8m",
+    "amount": 118633704418,
+    "frozen": false,
+    "percentage": "0.10%"
+  },
+  {
+    "address": "CjNnxThkai4E1JAERP5JiSX8bZRpucm4XmXE7cGWRjZv",
+    "owner": "87aAqkcDgLuJdGzAKBFRtABgTTz47c9imixfCya5GdVS",
+    "amount": 117146457994,
     "frozen": false,
     "percentage": "0.09%"
   },
   {
-    "address": "FsDFc6SCwT7efJZ9UXxDnouXgw8Ax9U859cfmAsLLgKa",
-    "owner": "BHpBA4ExX3ESS7CuNC1BqD7pcA76GbwJ9FoctKhXa1Mb",
-    "amount": 806245463867,
+    "address": "F8yMnexi1W5crocYWt5pViGbGiv47M9twQPTQ2gJYNHk",
+    "owner": "Dy2ssqzybJgFU6vke63Swy9Vghj1fR1vqfALHJWmTrif",
+    "amount": 116918703986,
+    "frozen": false,
+    "percentage": "0.09%"
+  },
+  {
+    "address": "JB6iERsJqxN3zmCvfVvrZPvimrhpQ8KqaLNAtWqWgSbW",
+    "owner": "6itp31mokVyQm1S34vzXMkJTVwxE5QqDCi2j7WTUdVo2",
+    "amount": 115733098938,
+    "frozen": false,
+    "percentage": "0.09%"
+  },
+  {
+    "address": "CsJY7SRMf9g94Y6wNXcKmjJtCGDNfLNCGXNZkyQ1wC7c",
+    "owner": "9CH3Mi89NXsWF1TPLJZP6qcu1xjHFgukDrdZkK8r56Ax",
+    "amount": 115002096888,
+    "frozen": false,
+    "percentage": "0.09%"
+  },
+  {
+    "address": "2ZNhxzCDxNXbZ471yH8xLaVX14gyssWwqTTdWcAS9Y2c",
+    "owner": "4ygnBvaqdsVUS85ddD2u8secngwHP1nLYDCwnBYChxWk",
+    "amount": 114635301107,
+    "frozen": false,
+    "percentage": "0.09%"
+  },
+  {
+    "address": "AT8YvTGuWf2JpkgqxW1FNwMFS9HbEDBWvZT4sJyA2t1t",
+    "owner": "H5oWAWvzqpUwNcXognYvN8M1AnmDCb9SmKUuAD1Vqyq3",
+    "amount": 111518904869,
+    "frozen": false,
+    "percentage": "0.09%"
+  },
+  {
+    "address": "Avp95StecEtpBBXp1FHZ8XqVUeCQ4ML3oUBk5zQkTmpQ",
+    "owner": "4uZsk6zWdNVhoptTTWiojZqoD2jviPf64A9ApnysXUaY",
+    "amount": 110548154424,
+    "frozen": false,
+    "percentage": "0.09%"
+  },
+  {
+    "address": "9N6pW9hgwCd8uoeosVsWMiCBYFj87fATmTH4ZhYQ8ro1",
+    "owner": "9JL2ujhY2iuC4QA5RBaAqMFERZ1CHzQnWshA3FWahJpT",
+    "amount": 105015259776,
+    "frozen": false,
+    "percentage": "0.09%"
+  },
+  {
+    "address": "ELVGr1ABEHXdkUPvTh6Rcj37DSMvg4sqVUFfkHs2K4ta",
+    "owner": "7m2Nd8PXeVMPJn2NpHFpJGyJhHvjz7nEA6wwXudL5Xug",
+    "amount": 104726722517,
     "frozen": false,
     "percentage": "0.08%"
   },
   {
-    "address": "H7qfDDQ3C7g8L9sEkr9kDvn8yCRgHBNncnx1VAkeNvVi",
-    "owner": "CkoqygsMSVCbb2bEcdGvC7c34EAjxhYnSN11r8USQKrE",
-    "amount": 549023603154,
+    "address": "EZw9BmwyALMKc3K7RxJTBMb1RuPS2YiZNRfjstmqfajV",
+    "owner": "Hi1Skm9aBxiZ4TiD67of3rGoAvFKcZ77ZAqFCp2vuJ1e",
+    "amount": 101840323983,
+    "frozen": false,
+    "percentage": "0.08%"
+  },
+  {
+    "address": "9R2Mwpq5KPzmXSZCpN1kd8wjoHM19vUPjvByPdCfDTxo",
+    "owner": "C7MdodMb7ik612nJfz7m41c7oFyH6T4k3DxzvW64AwdC",
+    "amount": 99230484446,
+    "frozen": false,
+    "percentage": "0.08%"
+  },
+  {
+    "address": "7bghLwchY5CTjxA2Tqu9M9saW18VsWp3hwCmhoUXE7Kp",
+    "owner": "AU5wkFK5eEtMQwLMBAdGQGV78HRrRmgA1aDHUj5eiT8u",
+    "amount": 99016917815,
+    "frozen": false,
+    "percentage": "0.08%"
+  },
+  {
+    "address": "HHffjujQX73A43KZ9sxzmjmkLnfTRzrbPib4DG3ecKtE",
+    "owner": "2GafwkjaB3LwHUrGeqxDQME74EosX6f4kw1uxKiPhY3L",
+    "amount": 97931842195,
+    "frozen": false,
+    "percentage": "0.08%"
+  },
+  {
+    "address": "5FQGLBwQQMbsekm6JTZCoGGHHM8z9q6DMwJwN25LfCk7",
+    "owner": "CginMHdJt9Cz1AUj5bKYMYMCDb8M9U35G2kkfWJQbLET",
+    "amount": 97493816534,
+    "frozen": false,
+    "percentage": "0.08%"
+  },
+  {
+    "address": "13V9JEUNyEUtcDznC3Bm2MhdjMQEaxoLTtfwHaHB8Z5L",
+    "owner": "3eMtajAtzQfAmMMscH56RUmfGSJ53k9nuN1TXeaXeMuu",
+    "amount": 94022739397,
+    "frozen": false,
+    "percentage": "0.08%"
+  },
+  {
+    "address": "FUZ3FQ47Jf9eZRCbupY7R92dpwPm6WkjNfd2zDgs7mtt",
+    "owner": "7GDvHcK38mrMrVEb3NMzJpBNVCd8H39PdjuGUVSmwLVd",
+    "amount": 93662041833,
+    "frozen": false,
+    "percentage": "0.08%"
+  },
+  {
+    "address": "AmURGbLp83xwrCnHQUcAFQFD2U1BY6TXYgGFgfZ5vLGm",
+    "owner": "8fQsJ3jaLNAEhCGknN6ersqHRsNHFaKRLpY1qizBCwoM",
+    "amount": 93341936039,
+    "frozen": false,
+    "percentage": "0.08%"
+  },
+  {
+    "address": "seaqFxxMQmMmomLTZm6i4hGW1GtiwUipZj5g1LhbLW2",
+    "owner": "uHp1e22XUzDAWFjTLUHQdeutQH71bWcsSTqTvu7vDF8",
+    "amount": 92655176924,
+    "frozen": false,
+    "percentage": "0.08%"
+  },
+  {
+    "address": "2WAj1BahK4DdFAdNQbuH7H5WPvqfg3amSJUwg2hHcaKg",
+    "owner": "Fsqf8M9jF5mk8KuE5e6EYoxpK2YpMzFbwVW9iHg2vVmN",
+    "amount": 91787600727,
+    "frozen": false,
+    "percentage": "0.07%"
+  },
+  {
+    "address": "6cJQLSUusyfvAd2NvGK4oJQZxiCBpboToyrogdp1SVNC",
+    "owner": "352sfyPjj1jFYYBMLj9rkVUoEetkE6H3YTrPczHDGhFS",
+    "amount": 90117632266,
+    "frozen": false,
+    "percentage": "0.07%"
+  },
+  {
+    "address": "Ck9pxHzYQzznktfDRTbB9mfNo8mXheXyUh63CsLcGiUf",
+    "owner": "21QhMzLgfu7egntGvZ5eFHqFms2zL1sMHdzhY2xMX1bY",
+    "amount": 89768942614,
+    "frozen": false,
+    "percentage": "0.07%"
+  },
+  {
+    "address": "7fP2MgFYdYQfUX7e4hA5PG2zBeeMRNqC1jbkgqg85hhw",
+    "owner": "9McYRL7bVRQ9k2CoKCx74h8LGqdEa8wsVM8Dby3Wdavf",
+    "amount": 86997182696,
+    "frozen": false,
+    "percentage": "0.07%"
+  },
+  {
+    "address": "C8sStUq1TnTdLvPLqNs6JcQrs7G6JSr2bPtDTPNowytQ",
+    "owner": "CWwy4y8M1mctnK2Ns8bWQ7GNSZi9KpxmTxZPwWv7gGUj",
+    "amount": 86249016500,
+    "frozen": false,
+    "percentage": "0.07%"
+  },
+  {
+    "address": "BS9joMqmnU6yuV5UWrr9cGKM4wNWpB2aaq49dA7htQ1G",
+    "owner": "98U7HnFTvKLpvd6YZCW9udyS9gdFo8gQKPJ8wAm63Yew",
+    "amount": 85966532028,
+    "frozen": false,
+    "percentage": "0.07%"
+  },
+  {
+    "address": "58sYDsm1p7r1nzVocPfm5nBSYecvH2f4efJC2Wdojxvi",
+    "owner": "EXen15hzF82Z11AYX69ZJaH1Qb3smAdZ2zbB5ZTMD1cw",
+    "amount": 83999898867,
+    "frozen": false,
+    "percentage": "0.07%"
+  },
+  {
+    "address": "7fR55F7EuWkTdDeS2RUozPshydkHgKj7UAybKiKBhE3J",
+    "owner": "AmfEE7KNLi6Prm4nB4gaUpeWEv2rtC26TBDXZ1fseP9W",
+    "amount": 83688279327,
+    "frozen": false,
+    "percentage": "0.07%"
+  },
+  {
+    "address": "8ZeQsHMC33oShXDSTYxqNPVJwTQJeSH4MdTwpvfT7FVg",
+    "owner": "2WnVZtBDFmEFxv3JcgTKg8GT8xqaqHU84cE14Lg45z3C",
+    "amount": 79221595410,
     "frozen": false,
     "percentage": "0.06%"
   },
   {
-    "address": "8Gg9Lyw5RZp2dePBZeJWVHsfJ2secnz6kMtt32F2aAP7",
-    "owner": "FbYupf3qfJE6rV6TT9BQagKjn3UPta6zeCCrM3QAviFU",
-    "amount": 514664845775,
+    "address": "8cVpyAFU8CBo46WzDUEZA45rtJXLz3U32npT3R83WZca",
+    "owner": "2pekTQKDsJkd7qUMVD6Z5AGdUuuQ2ZF7zGDmhKjjgVdr",
+    "amount": 76832841569,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "BauikG2bndfHS2TtgJ9sqCFQHsg499bLnJ7oG7oyickw",
+    "owner": "9vkGCjCZEGyedBTd8fPtwmL8Le6hM7HqYZ6kpJCGuCGb",
+    "amount": 75017750339,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "315gHS5STCHff4Gqr59NpiHxLqCL12UW7ifGvnKvYSix",
+    "owner": "4DHqbSr3o2JQyFhKJPFrZqCBeM7yq63UCfr4WMvRH7Sj",
+    "amount": 72602698684,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "23swBA6WjVe297jF3vHupx9FBN6Zoe5ZzeGL4yZGE3Na",
+    "owner": "9A9nzwEoYook515BVqgpWpDi7RgCkdMqV42LdBTWgWzB",
+    "amount": 72394568285,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "4qQUkT2ugY5cpvFRGYZif9bYCf2vxu4kxfxiQ8o1QKEj",
+    "owner": "8aWuVsSTyzesS8YSLRUyMj4eehHWV3AZwM2rLdv4caZ9",
+    "amount": 72272123091,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "5ZfBKcZbnA76Rmm6GFypYX1qXTRxxt3zvCkqEQG4Up3y",
+    "owner": "6uvczzkRQhEGNQiuc71Xbziq4bt3A2RkqCEwSrBcF2L6",
+    "amount": 72233493291,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "8912Fy4Z9VMCdgLaUy1daEWjamk5K6NXs4FrqmS4VEuc",
+    "owner": "GtsKWwo7zMHUR8dzP3DddKRR6pFTrqD8ghMpFLcpUwbz",
+    "amount": 71738143436,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "Ei1QH2Yab4HRQpJAeNKHhLHtkyb3jNvkcVyrGxMDN1pq",
+    "owner": "3xBi2WFxwqrtJhLEf6Jk1MxJt3a3v7WdcZTxQZJZK43J",
+    "amount": 71519622737,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "7DAmDq5D55M9QCvxdiB9ak62nQjhhmEmAZDUsfaBJwo8",
+    "owner": "H66pKcptpfrYuGMrhUt36qk38r6XmXe5htX5bXYcF8FU",
+    "amount": 71302099383,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "57K5GQa9KCjog7MtME2JgmygEMG6oXRuRfJYQgvZQJQK",
+    "owner": "6HoMEDMigY89NKgEXyXL2NB6S5YeSf79oqsHvqPXqtMQ",
+    "amount": 71200582810,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "94GYuoiLBJmkprEVkj3EVix4zvztN6SETjstMizS5CXh",
+    "owner": "3dABKX8JHDrzoqdhCjitSdXYDY2eKRatkGgz8B1rnG7n",
+    "amount": 71072066840,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "HiJGN4xkz6BUp8kNqDd75GVXMag2ZBrFrr57PyE8woz6",
+    "owner": "4Jb54WUvma3Cpb8Uomr7g9pD6qPXrc1D3LEdKTRAFnZh",
+    "amount": 69987041295,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "Ce443pGGX69UiqkoQDtK6Hspq9ino6FD4u1KcjADAerV",
+    "owner": "4mnWPWCyRv1QehJQtihRvobiKcuN5ho6Rzg9iW1AR3tg",
+    "amount": 69690299620,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "7KpyBtHHqeE7wf4wdFeY7VEuM9EqmhxBgBnLKEpW8pxG",
+    "owner": "DYA6ytbLm1ifXpbyHMZvhMMiKYcHxTjwLxYLCaCMdF5v",
+    "amount": 69640487333,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "GixKdbiQwcYfgWPCH1ZaQXKNSqYPTCoHgiWCoA3YrUWE",
+    "owner": "2ZLUqXz7xEqoLSvUZEbRpad2Tp2579dDA3AmE8tTrk86",
+    "amount": 69590728455,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "GKqmsmtk9uQKVBL6dK33yyE3nmE4bM3eo7qqiCgTSFDr",
+    "owner": "9jkYBTGbotf5QVp8nCt7uj5fpsA3yUJ24iYjfAhsXkwp",
+    "amount": 69313574763,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "CyEbuKgHdmcFSSqruJHGvFQyKPDGxY81F118r2kdU96U",
+    "owner": "6DSsW92Q9Z3ayfadQcXKWkA4o5vk5kcQejDXFjf6FPbf",
+    "amount": 69202019107,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "9nBLJYrguSNAbUXGHSHYzTnhDUKixGyXsS6zXUfnqkvA",
+    "owner": "22xs8CYnSHdLYE7WEJxjF63h6gDMXcFaqQjnUyGWFcQw",
+    "amount": 68555084540,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "Ap6pu1xXP84eqM5vkRJrUbn13cPeQsgKmqxFcmL8J4TG",
+    "owner": "EYEbp52ktqrVjEbaCvtVqWkAxH598jDijPZk4xXePKfR",
+    "amount": 68498398805,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "4skzpuU1rEhHqcqNFEzzgSC9JyMGQD5CtmPuH9LB3TH5",
+    "owner": "7Gk9XFegjf2UoEHHH3EZes1Uh9bfkwD8A57LV74iYVbw",
+    "amount": 68218898939,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "YG6BhHAAWkHLVUFBUyVZ8eJFtXnecBoEWQ8msvzXVJC",
+    "owner": "CX3fVaamsxReswHQwiCbFYLExHWVpvE7L4pexUo5av9X",
+    "amount": 68140624587,
+    "frozen": false,
+    "percentage": "0.06%"
+  },
+  {
+    "address": "2Ge1hfh9GxCNbsxCZKKnn9TxjzaqfMdv6RCnvu4WYTsM",
+    "owner": "Fkdnh7LAJodEYRgqg8x4A2aWTXnYw77rfgJmf8TsUBU5",
+    "amount": 67439772463,
     "frozen": false,
     "percentage": "0.05%"
   },
   {
-    "address": "6vwj1V4wXej6ByX2cwvqUt3TG4vUpKBnzg2cgPmhE9M8",
-    "owner": "E4QUQRfPY9hJarH4WA262dMFhDELKjThCtZZTcus4qEC",
-    "amount": 197625880918,
+    "address": "7G6L4REZZJB87QeQpchL6j6xrzayD3G4UboxaSMfMU36",
+    "owner": "H86ZUpBSf7GkHS5wK5m7KvPYfoNiy3jxSpZCh44EUEqK",
+    "amount": 67381940941,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "4crtrzeUK9LvDidy7Rqug7vhWFYZwnn6N9JLnEQ7rsr3",
+    "owner": "CmDZtPBtBbjnd9ULpzXFvTirzDFrLynLVvL3s2SStzqf",
+    "amount": 67364212581,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "GGdYpQ31H653p6fn6Y99TjDrbgkvSHPjj7Ph4Tb4X5LP",
+    "owner": "GPj5dnnfkRpbBVeMrjwC3AngYv3vaA8QpjKjXWkkfoXc",
+    "amount": 67278486543,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "EpQ18P9ffPgBiYjhwMqMp2bNvzXB32eL4ktL8V8toa9q",
+    "owner": "4mQvJKiqHuu3K6AWPBgEBdz4GKziyhMiD6yj5cfEahrw",
+    "amount": 66888564893,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "4URsZHmz1h8N1uPt6sg2UjMR2rgbJdvga9hXCm3hupyB",
+    "owner": "92dxwm64fPuaEPBycPNMbJryWeWYBu3gxyyH37GNAXMC",
+    "amount": 66700505026,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "HQamttUJ3uGkhcmNkEWnQ3YKJUFyqTWphTMtwDz8jVbR",
+    "owner": "J9UVvcJxfpBg3BXAVJirkbRRjT9BpsDEQCNXD7SdU88R",
+    "amount": 64939178047,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "9jSQpxrpZ6dDdGHeEeiLyHAeVyMLZczW1J2uNB1srsq6",
+    "owner": "7nsCj4ZzemPPm5fhHQ7QRkjemHRyyG1yBj9XbSduf4Xe",
+    "amount": 64105161717,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "7R521JG8GQTkiVZRS8xx9LmjrWjwbWbjSwswyXS5t22d",
+    "owner": "4pb2Zx7Jcumb8JQ3vfMe7wKbrWYjNiVh9MT7tCfU6AGT",
+    "amount": 63514720095,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "2P9LbaFJiTeewYj4qfatcjerJdT6TU1aQzAwGCrcaEWR",
+    "owner": "4tUWCgycZE9Qp9xdYj5Uc4wLNm5ReVEm7w6hAZXAADWy",
+    "amount": 62834582870,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "2C1MegN8fgwUDMiTP6zG8Cetaxdxf86QpwQdzCFsnkw2",
+    "owner": "7gjPnPDHndth4eRukXG24d9KJ2gp32NXEjqqRaWa2tP1",
+    "amount": 62757740731,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "EdoZM1FdwnW9sPNo8g77phqUtj6tCnJvqZ3BohT5pESF",
+    "owner": "G8Q5MHeG57ZNL4TCn5T4RR74guewtVUHzaETFDCDe6Ko",
+    "amount": 62601550545,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "6e7SDoerdr9RouxMPqFM8uRYSR9Fv3Esk9yrFtM6HFhT",
+    "owner": "HpDwnv1YPxvFBh4dqyJvxhQZy426DePaN68xNvprYTDD",
+    "amount": 62465320622,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "42SGEoWQPk8DSpghVd1cZqKsutfNE4iNbAEidh42cpT8",
+    "owner": "AnuNqj7CHxt2eCgcyvyRdnD7fBKad49DyWvk8mjgQ9iN",
+    "amount": 61291051529,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "2Ut8qUd5s5Zr5ijqAMxH8rGEBi65r8zEorcY3csKn7HN",
+    "owner": "77crfouP2NkDAPDDXFYzPxMPraVb57Wghu8uV55rN4WM",
+    "amount": 61027538454,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "GZ1KZoiquZFZN4SyN63fwUCrVccwYUo9k3E4tA1Dhver",
+    "owner": "DPEu7pEvXVzi4hvQgm3jmaQJ48o1Vt4K1ptk7WYVqPiL",
+    "amount": 60415179209,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "4DSa77G2sbRhHnV4wiMPCSh3zQ5AcCuocuewrur2vbwV",
+    "owner": "7gPsX1ocZdVaJWWnbxDwzps1ZwVTtRe4EXksv3FcTeMg",
+    "amount": 58703054973,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "HWJx9jrrGdAjyDwq6HTi8LaRxWkr6jgyZ7VnQxCjTVvK",
+    "owner": "8WJjDCKcRYfwPAd3h23DQrxms682ETXNYTJAKMYfe8Xo",
+    "amount": 58219507784,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "XoLLvQgBW1U4h2uyy26EbL9ghFHb9qSZe8hEJJG3LbW",
+    "owner": "DnQqUqoPmTf3TMHuvrfMrCVzBtDNAvvV1edn5WfqEvgB",
+    "amount": 57954297621,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "CxrjmTWygBCLo3MsvEdLoxaF3vdqwEn3cHFYQRSrrSbH",
+    "owner": "34KBNJscxYWZQZ5AwFFAVhp1Mb6V6F52uD8FypDRRzhN",
+    "amount": 57910055879,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "92EY7Hf1GEdAWhwWUksMLHKoVYQ9GPG4HRuW69xqBgSe",
+    "owner": "3SS8i4RLUhwv9yTjyC6aWjH95UpEZuFfqfg1sd8SewE4",
+    "amount": 57907251010,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "5Wr6Efdfc6w5ab2v2RLcwN3guWKHSacZJ9dbiddr1mLW",
+    "owner": "Bq3WJ2vgDhVTQkRydDK5qZBTp1WbE7hT7HTvmonDwkcB",
+    "amount": 57829401921,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "826JDt5XY8ZdpxmepKndX5D3zgmzHDvNrZyxps9GCzdQ",
+    "owner": "BZWsYdDX1SzHCWU1Q7xfAXV6pJije2ygg86TnnpBezxX",
+    "amount": 57791116988,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "6xVbjzRtese4pap1faYHKwDvBA7WvYkfr45PN7B7mgPK",
+    "owner": "CdEK8ECZinobdcfzb2sakpHqdNnocKcN717fMty6HPy1",
+    "amount": 57388336316,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "GU7q5gCR8NAm7C9NYfckFfMwR3wfGhFUPxQEnPnx5JVg",
+    "owner": "CQQxaCgLfwswG1Hv3Y6i1yH8dU6TP5jTUYazste191ZJ",
+    "amount": 57026289525,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "Cetqi2iGYW5k6eNr9zmTgYaHFPJWnssAQsSMqSbVprFC",
+    "owner": "DhTy4uHvY8eww61xLtZLJGZQfw1iB367rcPmSCYsWagH",
+    "amount": 56847516961,
+    "frozen": false,
+    "percentage": "0.05%"
+  },
+  {
+    "address": "6v3Zmgit7Nac2JZWFepVtYRByH6N4fA3pVKTzbdNv92P",
+    "owner": "54raNSjL9FA6AKkGxiKMUNGDZhKA99A8d1Cfnv8PmEr6",
+    "amount": 55422905798,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "3CaBZJ8xi2TGg4gqJHvUzF3R1Lw3A5MNfRmSdr7rWhG3",
+    "owner": "Gi71Sv3NTtMKaTUziTbieSQWUxNfoYBVqP3CLvnHm4Kw",
+    "amount": 55113171421,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "BQhiXA9FW3rMmKDe6VvkrCrjVuuren6s1HzV5v51DnTh",
+    "owner": "2UNhNgHpypVB8DgJGTPkn17Jsc3NcTGY5sA5pAJFT9W7",
+    "amount": 54706099032,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "5SgRFEZKr6VoZgQ4tekYStiJeSUDBagKpENRqq5sNcVR",
+    "owner": "6fBiDiC8CLq4HLVeLCC1uDF7UXbnJtPxBuFXpmwusrVP",
+    "amount": 52205612090,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "F6DPbDfisu7AuvHkiWuqXW1MMLsqvxmfNQq8r9wFSkTX",
+    "owner": "3cQXzi5JSCpBJMHx1iufTMghjKCr3AdzDP4ZWng1ssg1",
+    "amount": 52147440105,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "5W9vL6wAGpsJtTQ6CanpkzeiQHhRRD72hB8bM49Pj1gP",
+    "owner": "3spFPXdPAi1mmsfnQVCjGRHtmN6oQL89Uwd4uCs9LoXq",
+    "amount": 51361943640,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "3LPELWAztfY77Cp8oxfmziuwQNfJJzXGueBZnFyqAFnf",
+    "owner": "4tLrdArBQvaN5aF5Y1aXmUt1uovJcoZLmh2Vp69qeqB7",
+    "amount": 51351756877,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "BvzE2DTeLq9WUExKoSu654CWP89jPDfyH1NDuW1RAv2b",
+    "owner": "HQSayu69MVuLY1i8uDR1z9uofbqxjgVLLt3cyZjiQZyu",
+    "amount": 49937306928,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "5issPGZFm4gBi5uE612wPmPZRz1hrubPZguGoLR92iyS",
+    "owner": "E8ATvrkWkJLsF8Kxe53p3Kn6LjBx7V89EYZEkYGVESvf",
+    "amount": 49134882078,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "72SJR88S1GBPwgdHj3QRsPmaNXBxyAk5kMxzC6njcaUB",
+    "owner": "HWo91qXVDTdbUku86V5EKDLrYbNT35zjHgTLhyzZkDdW",
+    "amount": 48485240379,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "Esrx2EudmgmhefX9GLcjfubXSGA1cMH5zRTVuwUyFEL1",
+    "owner": "9iMbeY4bNuzvRV8i1n5ngifG6ZzbEouUwtrUxoqSEkba",
+    "amount": 48250033726,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "7T64Ek5aisALNczVNzbvtCdZkKKWWtDxmVqzoyAeB2Eh",
+    "owner": "BxERoX2sZBGfU1hXRqt1p6tDAtLp4DQ8ra3o4TrZbjYX",
+    "amount": 48043238829,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "JAdNsApf9wi2q2aGjo2QTbYUkLnU3oo2L4kKrSe5pUGt",
+    "owner": "8Gndmnbc4DkSjCANkt9v2G4sEzogb8C3pRrechQwopJY",
+    "amount": 47945445176,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "Bsaiiius8C8kXRtZwmWZDgFKsmiruFUnwdBASAJuWHmy",
+    "owner": "5Ap5BW6QqZoq1NycY8Bfx41afgq9iy4csnv2io6oV2EB",
+    "amount": 45776037158,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "3Va7JZjTLczeqpb6qMz4sRAvz9cfUeJzzuirMvWKf7mn",
+    "owner": "C7tYzQLSEGL6w3sGpTG74qLExpaveWikPLLLAhrezYBX",
+    "amount": 44551027437,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "Tb1gKQXBjvpD71SVFcFDLKpMEJoQen8KgCuoVncZo6g",
+    "owner": "FwR8Q1HjYwwkSDKZD1ZKXjevyePMTn15dBiZVBg3jcqU",
+    "amount": 43916072604,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "5q3vAacDGGbdHb7qnWj45HEjb5p88CMZZx4ZUjeDS4sU",
+    "owner": "3PzRvYAtXsYML5ScoSV6Gz7mNR6hs9Mb7uUFob78qV7H",
+    "amount": 43611257378,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "AkU7xsP8pX8VtuJp2LhLX1kKB5hjP7E5XhuGgsiafdS9",
+    "owner": "254bHJ1SZgaGoJadXqtJxLZj4SbaJ4BoqwqDL785sbS5",
+    "amount": 43461644435,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "72VtAYuFUb33ZBk6yBQeh9fzacJhaAxjPSZANJZH2nS1",
+    "owner": "BKujSMNNtdp1k965ctMJQkSgwtXCwawHcd7aiGY4AEuN",
+    "amount": 43371969373,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "BB1txwuicFBZueKzXm6sPqz8Z7LqsiXxYPrtJPtPQf9y",
+    "owner": "D21kXbeD1WfUBRpWm1zU6HCtKsXUZaEb5SHyNNtxKbgi",
+    "amount": 43317693759,
+    "frozen": false,
+    "percentage": "0.04%"
+  },
+  {
+    "address": "9HEgDWHrofjaEBSbY7tTYPdLorPqXnHZ4tHpDf7hh9E2",
+    "owner": "EKLL78gCDtEUPbxADjPY15172n3iuanMNc3ya829bjV9",
+    "amount": 43036025802,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "6ZT5LnmjBWhgw5QA5ZxRaW4AXFBuF62uzEwb8tJY1Dna",
+    "owner": "AwPh8XJ3zzvXBrA45VLjEuj2VP1jvF7P3na2mkXqoXHq",
+    "amount": 42476942905,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "3jdX96adge7S4isez7HzVouUhXvbGXq2xPp1zQxmaB8i",
+    "owner": "5GfCbbb55zMWwAZqjhWPfpLRtUJb6v1C7GHtSp9Y5fFu",
+    "amount": 40416205311,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "BPMbDhbPAQoWvVyomDSezQ6eRcxzLmjAdTzsFC4k3vEs",
+    "owner": "4yrSvKuxuxUhuPnrtxjmwUtKMtZL8LcrZiQbUg7NsnXP",
+    "amount": 39602998787,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "AjcUVwEYfZtn56mGeAwAaojL2o6jyF2qny6WXkTPzYVJ",
+    "owner": "96gYtrPv8KbZvZumRWdcwBLjoDAZpFsZfHgcVaveAfG7",
+    "amount": 39441784899,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "CNJyYWdNKNo8qjASCASRBVRvPB6Ff2wTkow3Wgov6La9",
+    "owner": "H8zDQiha6uLHmTDWaE5pGgLrxg4CYqaS1E9cYNfAqcuw",
+    "amount": 39424805458,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "42GQqrKBD1QVpFcGTGZqvoHaqJzgMqDQGRfm9tBT4uvM",
+    "owner": "ECKj3vRmX6GvZZVCAvQJdy6F91zLnkCTqKXfth8zpV5w",
+    "amount": 38924063678,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "vAGD7tBoht2or9jeYffepB8bJQc9itFoEDGbEVWqcX5",
+    "owner": "12Ye4wEbv5cAR1i3Ue49Cd5K7jfmuSHoPC7mFhAZ5sWW",
+    "amount": 38374882479,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "FpKTzKAQTuZU4Xx3r5jN32AfWRsoiNw46Vkvth1gbgQ1",
+    "owner": "2idLB1Biyp1yJvBmv49doR6skeATnXfAyZbXfUB2F1Zw",
+    "amount": 38358290717,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "9q6qtzZT3jrYvax5v3TRFKK45Wn4wJrfonQgEsLfv2U5",
+    "owner": "AnUEQhG9PtPYztefAHkFjWzMYsXzncGArdeyXJTdf5TL",
+    "amount": 38086073111,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "5GNuqp4vZ3XC1L4giSo4iYEUQZ6gHaHSxJ2Un3be6vz4",
+    "owner": "DvrVWkWUhAt4CjouANnJAyWQhsMXD2toofKbDqcarfm3",
+    "amount": 38069668358,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "FcjLa9GaJKZqGjnv3dvhvLPmmXbUDBWojiQHoFp59nc5",
+    "owner": "2zBoKiPL2A1Mo9pc39sdsAs9a29cv55XbmGLrrH66CMa",
+    "amount": 37797872845,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "EFj4aTtmT8BxxV7AXz5Nzc4aenA8dFGohYkCExtXGzxK",
+    "owner": "BKtWwHhfHFc4fopEBJ6tSAdT1bY1ucxvsHqzH2mRG1U3",
+    "amount": 37628304076,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "9eKa1pgHPhiQFLpWsACyT9vKyyVi3zxfRmarvdULMzRW",
+    "owner": "2qUstcKDeBxeLZcy9TBz7ZfrgR5W7ut4TxPRGTczsJ2X",
+    "amount": 37395525846,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "8BHikFzzbb3Fn54aLZZtLzxBuXeoXdWNohQ3eXc9wb1i",
+    "owner": "CeYUZnxB5sgZWRbjoPsGuhYRZC8LTGYhQmowpBhu5HMT",
+    "amount": 37269453111,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "PT4mkRaRGYo9j3VA24mVKq34E7B4q2ARdnVwrWhQ6dM",
+    "owner": "BmYnpnxp5dH2x2wgJapbWmek74Ry3owaeUFY5EQ2dThF",
+    "amount": 37253574005,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "4DKAaEUZXZ86TM8aD84x35jryVRkDYikeFWLHHjb7eQ9",
+    "owner": "3fGHALVt9b33qMAx1Dfc8yfjryHykKkwTdHqMVs3YYXT",
+    "amount": 37237705050,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "4xec5F64YjbiQcKmejnph4W8QaxymhtCgYFsRDUcW3iT",
+    "owner": "Dkkkox84vqaNSXLcebCLhD758RXJrABfwA5eraurfkid",
+    "amount": 36097428000,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "BF2j4WTHiT2sDxJsAc1fUrUTdWmWPvXWPpXFZG8FcM2j",
+    "owner": "EknozokRm2QKT17AyvwwWoBsXh1Ymj4bVxArULmG9cdA",
+    "amount": 35717263775,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "DgdER8VRMC7vvmrsfomHLg7uNYdcy3Uj8keAHsryWzWQ",
+    "owner": "8unhqmWYyNvdxpq3XxKmQPqkDBC1mGMasi53ZC3QPdrZ",
+    "amount": 34927036122,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "7qYBtGZm57FznQqDFz16zwxMPuU3bP89wRbDNJniEKi9",
+    "owner": "Ab9fi6eL7E51DytHrArXxbugzcw2ErdbBefmCb3UvMo5",
+    "amount": 34436479051,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "DTncEMq4TTRmgTYiK8Kkj277ZAoYB7Xt3MUbkVLSg45z",
+    "owner": "3LsmMzqHhnwwiqKfBFHDWq55HkniAZjBtVKCbVA9sG9B",
+    "amount": 33830829388,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "Dhg2nEnX8s5bwXXvJbDKnDjmYmdk7pqsyui2PRS8MqSM",
+    "owner": "7AcJPkNPxDbam7pXcK1HWWt4JqPpymPcASZbMMnRLBXm",
+    "amount": 32720159591,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "G7URD3YEmNUkC9e8J3i9nhPGXTiiW9riMu5ou74iHyr6",
+    "owner": "4cGhpnhwRVcuGKJKjgeSh4A95yuXmFGSgKmSayqatuvy",
+    "amount": 32165435494,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "4VWNz6pUgiSt83qpaiQVtyLuLHxAoRNUBWdSmCR4E4Gz",
+    "owner": "2g7ygad3AydqpL64uW4VpenYTpuvL7mzJ8EXYraeC3WH",
+    "amount": 31938605894,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "E15AQhSiVio5xbdmFzXWn8787ok1p68AHxkEwvYREvAd",
+    "owner": "7NTKrw2Ded18cmk9hfvQrnASsRXRgYFGKHa3yP4GX9ac",
+    "amount": 31884062852,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "4pnuaXEQJP51AvirJD7AoKM2qhKA64iVG4XigUqxLK12",
+    "owner": "42a5qeX7wPVZ3EszuD5H4Hj9ZrPkJqsLCbCZkccY5rn7",
+    "amount": 31014392951,
+    "frozen": false,
+    "percentage": "0.03%"
+  },
+  {
+    "address": "CMLnenqyTUkaP5EvT736d5kH6hEEa3vVF6vaoCPkuVxT",
+    "owner": "8wmetXrNFC21xKh7pN6SGG6RofPfxB6SZEBHt8J5iN9Z",
+    "amount": 30630042490,
     "frozen": false,
     "percentage": "0.02%"
   },
   {
-    "address": "DR4SyKCVdt86sa8aCoe29kYbPwknYjx9NeUHDmzvHnjq",
-    "owner": "F4x27dyJXyEsDUkXfeGyNMRS82V4K6tt6ZGxH2UtvhJZ",
-    "amount": 138512456926,
+    "address": "Cg7Pz1byrcdQZDcK2G5iGQn98JoPGiLVuXigFvKArmkr",
+    "owner": "9zVD8mySjyWBNgnrDoyuw4HWxgo6mGpBsxsJLSVQWNWx",
+    "amount": 29437475108,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "4v7cxbBuWNQSzJ6Rf1GakxDsSf8MbrQTUERuhAp2ZqG1",
+    "owner": "HUgUzqXC4So5BnA593cxwEb17yi8B79hnkhvvDeEmjFS",
+    "amount": 29288073775,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "CSJEFRarmb6FDundsaToVRawuWzyEB9FwkCtD5igBxHj",
+    "owner": "EdjSzUREN7cBFWHdiJ9SsCpApfmZeNwR9GVe7XoNxBuF",
+    "amount": 28960822492,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "3C4kLBPEatpd6s7shu6Re3ToSahG4BVw1FNsVxPbGERB",
+    "owner": "3m213yY4n12wuY8P3L5nRDy5erkCibhkz9fbQDQ4Nuz7",
+    "amount": 28939076972,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "6QBED3xujeDNJGpRi2qX7SwsDy6K9yHQGDoh6JyubERH",
+    "owner": "8rwTMFFGLSQEBVyzv2G6cD9fUrgaoDHg5PPzeMEYaC2A",
+    "amount": 28928213398,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "6ZtcBDCTFCxcPz7VJ6iS4zhN3Peb7G52GZjBR2WnkjTR",
+    "owner": "GfhjvRtVmDsapEMR6aKXWHTKmm2kX4MewHpThUxSYiy8",
+    "amount": 26013633538,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "3XxqXEjEuaTKUK6itYPyUqpBjgcLRWFJ3f558Hv8Eih7",
+    "owner": "G1nhf6XDaqKWQfNvtbdbahsSpYn3QM5jjgJELPWSN4M8",
+    "amount": 24376422578,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "6NXYySbjY4jqyeDFYT1a27sHeCPzveT1YuViCC4WJZc3",
+    "owner": "DB1ZGfkkVC13g7PKTJkjKQGXweC4X8GnHvcnPAxvtcy3",
+    "amount": 24090993050,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "HLwzX6rZ28FQBSjutcSCZedKUB4eLMr3KcQw8YUNsjLL",
+    "owner": "73AchUn57rVnhAz4kfXX6kiUUVZVgeDUwTNb4mTKwcRB",
+    "amount": 23256028076,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "Dxu9vWJU11uvnpBA5jsHBZ86qwobkX71HxmZFv3piVqJ",
+    "owner": "8K5DTPpukn638oE9b2ezpiq5heesRFmEyUUQG8sKcqv3",
+    "amount": 23000325310,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "CbApQfV5b1f7nFEsWnX5FJFAXMZ5LG1HRuFfr4THeNeY",
+    "owner": "9uThfGpnx3jLqqGxr3aeHXjjg8efYyjpPyZqFu9YmwT7",
+    "amount": 21636427481,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "B9xMzKrxqKHwHa3eo8v8Kt25N5GuCkUZxXbi41qX8r8U",
+    "owner": "9kmin8LqZjegUV7mpdqAfQrZEHVtaT68fM9zf8kGdEd9",
+    "amount": 21255679929,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "3asYXF3B7GNKD7QBZ4ioP9dnF2RxEq5HeXBniiyBohMM",
+    "owner": "BXiRd2qvSEVtVhfFQ4HEoeZCVGobbf6CQegRWRHCoTDi",
+    "amount": 20484914670,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "2MZzy8Qk6f8s3hM1Dj2XKLFPWQggRHommNPEb8298kyZ",
+    "owner": "8GZaJhh9qDEcVUP91FfPRfr4LTTacBCgP5FMWkBbw7vx",
+    "amount": 20414323615,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "9GvcvSruwmh26KDdC9V1MPUwkenq7MTPxSMRAjT3EwDm",
+    "owner": "6ftqTQn4aBSZTvoKuACthBpXkBT36aasjbnctm9BAnqB",
+    "amount": 20404101335,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "DSBDHinTAtxKKygu8m1ixfE8AjSpHcJ41969k76tgQ2z",
+    "owner": "fe873fTeWZFmYBMfPZcgPLYQmUDhYDMEfKmL4tmhFqd",
+    "amount": 20390579519,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "65ajLdBCDU5Etrb82PZcBGSqxvxa5fhNxXSr5urMMva3",
+    "owner": "AWQHZBRtCyVUtLL6kQoxFXtF4KWfR2Xi8KTdT6p6YAaP",
+    "amount": 20155369826,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "DdB9NZRL274x4WikNQvx6WSoUn5TAGSc59SvGyj7MXuB",
+    "owner": "rpaNkpV2rhsd3ZVXDMmGEtS8BxKeLNF3rey471f8Wht",
+    "amount": 20150903247,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "BDV1jNmdsrSGJsdj6gVJUh4MGPycXVAsmNtFakDv2D7A",
+    "owner": "3KMxfFM6fzGrPQaESWAPDiK3vWA2J9qssjg1JRoTDQqQ",
+    "amount": 20136331071,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "7HiTeDaQYonvgJfGYr27tRH3cNvv8REuHmhyfPwndAL4",
+    "owner": "GqCfzRncHf7AXN9AZU3cZb1dkbQoMCGVyV9S12tQKARF",
+    "amount": 19937592873,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "AuEDUKqYubFGsgVJSHpqMvXAXbVLirssiS6ccZ1rVSDt",
+    "owner": "8WSbLsQQFtKS3GDXFQpdu5Gjfo2zWqpHbbHNG5rqouJ3",
+    "amount": 19873213417,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "7YytCpRGZYBnmHmcXx7sYJVHTRFDpSW5KVdhVGz2cMKz",
+    "owner": "7tSf78FAUktCXvDBAdeSqJqAXZMGxYrGNDezQzvLLTAK",
+    "amount": 19740431251,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "2cZ9RkqTbGzbSH7xrRxSsrqQnfxfSvNAEdFB5K4PLa5X",
+    "owner": "8MZzSUEhfkJhnDRdA2qirvRSUecKpxDXvGGFeGMgQoxq",
+    "amount": 19637075946,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "3vxYBHpZTivRV9yFGvtNJgmcncTBwuswLH4iwpbt9AKY",
+    "owner": "D4Uh2YZ23QCpgXPZCy1yVptKo4AVzEFvdgeB2uwTNWfP",
+    "amount": 19218596031,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "AgWSp3G8PQEftoPfotBudqfFgSQK79cxinfbBBthkNv2",
+    "owner": "AZzNFeghs5NAJMMgt336SYMzWpsTrkz6RcBin1ia9hVq",
+    "amount": 19172924218,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "4fhgvDBVX3KuMLkZTowWx6utQtELdr1x5ArMKH7TAekJ",
+    "owner": "5DPeRwgrwQBDQwkKPo18cFQ1vVoRWzgCoBL5agiXfVQL",
+    "amount": 18792576552,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "4Fu4ykBqm2vB24DFcM2e68Kd6GxHxappce3uN8M56FCA",
+    "owner": "HtDRkW6PNkLdktJYKEGE8h4EqhZ2ivcmr6vMuhC3ZHYg",
+    "amount": 18788555567,
+    "frozen": false,
+    "percentage": "0.02%"
+  },
+  {
+    "address": "cRDK75msrC9t2CSWfvNvFfRq7Vv5gevas1e4HriSvkt",
+    "owner": "Ey5ytsgj5MAoW1GA4n3H3UYMddds4eJ1CtttZcUfqafq",
+    "amount": 17981698602,
     "frozen": false,
     "percentage": "0.01%"
   },
   {
-    "address": "EtJkj2qHrjJqawBCUeFzzErELbs2W8unPsvR1dHcFcit",
-    "owner": "AnpRdEmjeTjvveTckYAzkbRpjm9RTJWJ8uFaPKwBD6HK",
-    "amount": 73175640308,
+    "address": "GaiRxxt8YW6aFW9wvEQS1czSaoHHqe2QK2gvx8FSoHLc",
+    "owner": "2wgkycrfNy44C8PmkbSSz991nts22HTqLWLDZyeJo4G3",
+    "amount": 16820394245,
     "frozen": false,
     "percentage": "0.01%"
   },
   {
-    "address": "CiCutfc1V9GENLpgk5P7cYFZHDWxDZ37psUDhMXaTRue",
-    "owner": "HAMkgjeSDHnKgoUzaYYqAyqjheGvqCSQ7w7SV4o5wNKh",
-    "amount": 48721027498,
+    "address": "EzX1Tza8MsbVoJv4szvJ4cJQQ8Xb1FzCQpCAUw8Ad5LD",
+    "owner": "GZ3UmcDTM6qSKdtPN8X4A8aVFJEdr4CT7eFmXi92onje",
+    "amount": 16479302129,
     "frozen": false,
     "percentage": "0.01%"
   },
   {
-    "address": "7Crb731MKvK2HGrUDk4uBjfyHCYbaUCvHTQ3cnqXNvs5",
-    "owner": "2jeJ77zJjPx7uFmSxheFMaYQ9UjP4ErYZ3XcmXNRByHG",
-    "amount": 39448595089,
+    "address": "GAzVz4wLEUUvKEAzpE3rsucJJN9AoJrX1JtcKhamHceE",
+    "owner": "D2FVkhG69spp7DoWNuSLo5KF9NdMZTyFtGEK9ZxbsyC2",
+    "amount": 16371941764,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "B3p1RYBwU8cXKvACtUoUj5ExRqyWAXEXcYW8ofANMaYn",
+    "owner": "42WLU5QUxofTpdkGqCfbg5x7ujsatYqygiQY9PiF29Lt",
+    "amount": 15686937780,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "4SQdkV4Q2qsoEgXytUTzW8FqsiA1Md22SYxaNDbSxgBQ",
+    "owner": "3S136yQyz26WA6qNpbRBYFB3UXxAaFx3QgqvRaVTW9hZ",
+    "amount": 15087609221,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "Fc6r3Guxd9R8Rnw8ty2x26xGvLU9s1NsWchf8mv4PnCp",
+    "owner": "GK5noSyaZTEUc45wx3Q4jCtCbBxwPoMPmXFgod4DUQvX",
+    "amount": 14844708432,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "9jrWzNYuuVsz7P1PzXEKqWsysYqTJARKLwGEGJzTeSQZ",
+    "owner": "CC8HegrzucGPA9CpMiTm42J7nKNkoguaCARk4go5xq4v",
+    "amount": 14476330728,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "2a8n7XJYA9pCU1tuzSueizEadJ2bxs1aTDkafN2Qrbwd",
+    "owner": "GffZ1k9svW1BEitYpzxYjvWsw8Fe4vg4vVaGBjmZBKvk",
+    "amount": 14473612538,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "GoNTWfqEhHkBg2KFyGesZ6ADR1tJkn6dT2Z3HXU6u7k2",
+    "owner": "C13xLAgJ3ZMyDgquBCo8J8BpALFkQ47ENYFyw2CUL6g8",
+    "amount": 13545491242,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "C5ams2LP9f5uDcKEMTx9TcESp5mFmX6i5GoXsiL7Z9tV",
+    "owner": "ELu5yyfo9QYhbvUsjSHiAqWFPN6fHpeSgQqqjziifZyT",
+    "amount": 12399763577,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "9y5PYx71WLSXTKkv5qLLyiKUwyk18xRpviHJXR16ZWPY",
+    "owner": "6k7pv9GLHJqMW3CtKkgmaw7QcD67bC76Euv9p1ro3jyx",
+    "amount": 12308188430,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "Gdk6wZbvb5yRf1LHZ2yBtbJB3G5hsegYpCD9TZSJCqno",
+    "owner": "GRt3bjBmmbh13cdNCqbyup9SsVr7QLGdCKTxBJcNcgdo",
+    "amount": 12302594432,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "5AnASDATmQZy3NFQAtSF2eeAxJwt1ZMwX2s66hDhvnf5",
+    "owner": "DizR31BeYKMEeBTowKyZRDyrKYbpYJE6GeUnct8PaVNX",
+    "amount": 12086525486,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "6CQc79acK859C3nwtfvmNxR1mhDHfBW5PTsYxj4qug51",
+    "owner": "6dDm753d9HZc6ut8zzed4YM2PJBBXN2coC11Nga8EVnK",
+    "amount": 12074299859,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "6BAqBp9nTsDJcKAi9ByAfEB8VJrrC19LzDVy35UiqPxn",
+    "owner": "869Xs7WVoAawjgBv4znbqVVRz3bdBxVS8ZLTojy8cWNd",
+    "amount": 11539079975,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "7cR8gTmKEx58DKdA1ydWKvCjtQejK1iCjD3kJLmjuvXB",
+    "owner": "AVaAeJ9rWhqJMfNdAy1Nwrub4GtxcEyUY4vRwZgCFucn",
+    "amount": 11476838678,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "GpwPYAjjGcC6NKKoER3MRZJyMPyaYV5UD8p7oDagjAhj",
+    "owner": "8msCYmyb3Az96uu3qhV8S4jtjD8mSDfNzaSkfC5vnMGr",
+    "amount": 11258552182,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "5zHr7kdvZMgW3vRBXLvHy2XTs7HVUYomWp6q9hamWwuk",
+    "owner": "9y78GGjdni9haBTnJCr29ufktZXdn6JfoNVJyfcbeVC8",
+    "amount": 10542918020,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "87RYgrAr9sVbagoPkUFRrKNVuUfuwPDSKPcPhy6AzVjy",
+    "owner": "Dnw8aa16p2moApxP7tvPrPMbJWXwKngVqBoZK2r1VvtQ",
+    "amount": 9847114472,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "Ac2DhxVFcpj1XZneUDyjX43uASSEvjZR7MNT5pD3Rrom",
+    "owner": "J817K2vLnaJyF3Zq3DDZdrmgkgt8kH7k47qR3TPs5T9D",
+    "amount": 7677440167,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "7VgjvJTL1oDhXJoKdMYSWTn8xn6hqcMvfTn2BwwfecpP",
+    "owner": "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp",
+    "amount": 7574044528,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "BgeqKmtPAq5G4HLK5NbccG5XhM1yKEdwBmQBUiqojJ2K",
+    "owner": "E6EpJdfR7zGvKDWFFagn9F8s56x3n4HYZ8HUZcTpwNsY",
+    "amount": 7445636040,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "C913QzXD8rw2ymRiXmzXau2bbnqYtS1RNyhySHZ97f4L",
+    "owner": "CnhLzcaJR9W6zvG74qf2EDZVFzbQmp5DYpUw6gpokh2a",
+    "amount": 7181566002,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "4sunfnpu9RGx3ynBm16126jF7FiN6rar5ysVc93CEFwn",
+    "owner": "aDLnPxLXXRb9WoyHAUKVXA2xxaUqBGZbtPGhWu36Pts",
+    "amount": 6988707455,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "4jb3yRYKpw3VwS35V86vLi7jkdcRq8MGsS43smbZMgfn",
+    "owner": "Ef285DGHhEDcjCPYkd15CrzbZW9zvHxxZ6ryMdEJeUZG",
+    "amount": 6933633052,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "E5YRbaU1YFZnG9v8qcpHpPo1SHoqdbBeTz7TrFe3sptq",
+    "owner": "BFZoQDqhpoyNKDuVM5K8MKBVwVDiEvXdpHxrk1U2JbFe",
+    "amount": 6912420218,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "HGjwD3tTmM7S9FxmpRSMcFwXJDM1Awg8eP9NurLS8hbf",
+    "owner": "2F1UoN4uWwzvtbAqDuLkJVd5WBjDEQuTLf9FK2fio9PA",
+    "amount": 6898783031,
+    "frozen": false,
+    "percentage": "0.01%"
+  },
+  {
+    "address": "C6GrqVHD3CyXxiRQEVM2XgWHaHVChtgP6FagHePUmopq",
+    "owner": "2BesxuAszhcwTwgDvZe6QK7tLuEchfoaQq4Z9YhGKTVS",
+    "amount": 5962048062,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "9vLSurmWZFJUTvhPt2ou8Ph9VjSBEabHaDhvKtd11UeE",
-    "owner": "DoxDW3KdxW8Md7aFVvCPYgucvZWYnbiJnH71gv5BtiGK",
-    "amount": 39151194300,
+    "address": "CmGLkrfm6dSWktk9ZqSR3GdDkxaeK3Hyx3wfHoJ6H3Ly",
+    "owner": "J9ZDSmwpm12Qr8PQAmvMJJdDPTJaVo1X5t6c7GMLDM38",
+    "amount": 5675807076,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "54VgL1NwhNE6zTQaZHeGQArddhpPHigEXTVGekeZBHVf",
-    "owner": "CdDAQaXRVULWfYeA1jBP1is5eu6uUsPHQaECJnia22Kc",
-    "amount": 34357768082,
+    "address": "7NH4JkdZDbGpk5pADQKUZNE7yg2WXa6WfMWLSPPqyRWr",
+    "owner": "351cyT1HZcqhaBQf9RWTrjxEdc1jyyymxga93qp8dyhh",
+    "amount": 4602252593,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "AXM4ZbuUpEtFgEdi4ipX4drTaswiKZSTM1BJhi7FVLZZ",
-    "owner": "1jWnaun3GMQ2cw3zuNgNUWNxetoNTcWahzzdNAvXGX6",
-    "amount": 27641346881,
+    "address": "78NHdZ7hXXJLy6uMVZaoAX8UHdW2WhyeCf25ozVpqebd",
+    "owner": "7DHGAAHe7wqh9ZbmovecdGudiz48kmCfmpBJtJwVtrKu",
+    "amount": 4152934773,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "CUbw87ruR9MKWhjpHnKfcvQuRu7zWL2dBCY78HL56J6n",
-    "owner": "kXXns7XveTGZdaFBrZf458KRgqxT53hK1wvUsWw1bHv",
-    "amount": 6222378813,
+    "address": "KcKM2BM96jSrTk1UsM4Bc1ouWewNzTUtpjSUWHa6y1w",
+    "owner": "EQAtvo2sHz8Tt4WfGPbbJ2e3L7ujP72sHjX36PywB8jT",
+    "amount": 4055089744,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "4gxvbiCwUBci3QjwdDW6cJo555Huy5uLpNrWeojfra8V",
-    "owner": "zfg3djiUUfhkvFAk9hh3tf5GbLYFMZ7QkbZNC9MZy6p",
-    "amount": 3955440917,
+    "address": "GLbiRPcisGhop2jhhjUtN5CwnDKGtH5rjVCQyXCKQuSe",
+    "owner": "7w5ocep4ppGj6BuvJ5w6p4gikvSFtgM2k44Vq4np3oi3",
+    "amount": 4027858959,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "GQGzETTHCgMRgZDmhV6m1QkCo89A9Mtq5tL5Lwbvn6PS",
-    "owner": "3L1fHGmYDzLqmGdGqz3ZMzpav7iB4QMM1LEijgem79St",
-    "amount": 2769980918,
+    "address": "C1XXLYMuw2c2jBKBw8eiffEhXd8Dc1Dz9Zmpj7ttpqF3",
+    "owner": "51NmxbT9ybHiSsuUcZuRVYe3y7ZDDTsAjVDPETi6Szzd",
+    "amount": 3565981643,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "dBtVewZErJ7xREn8nmR9PjDMGRyaSUshMsHx1a9Tjt5",
-    "owner": "vEp6r1ArgChJsKghxCND4TVarEeVo6uSMWsEDFuCKER",
-    "amount": 1943119990,
+    "address": "6myFCd6HTk6KvYsceWP5Ch9hKB5hg33FgHwSi27bA3cH",
+    "owner": "D8q4jHLpJu7m1w6GksbArpKcmCAYczpEeRMwqyCg78cQ",
+    "amount": 3494907980,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "AXBSa9H2Qr1kGHDqxZ6kXVFU82oQga8BNX9eNYc9WGdx",
-    "owner": "75RBnyF168q4txJcURgE3eVqyazPaoderqv18LWETvM6",
-    "amount": 1931167949,
+    "address": "28WcNXtKyWD2ePiqKgpacGYnCKWQ3BwZn95P6mWxxToK",
+    "owner": "4HhMh4B6ySbjr1X9mQyoiAufQHxPRVCc9Vva7PubjQae",
+    "amount": 3468824357,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "DguMkFnJZ8pRs6pJmnyiXEcW5X8T3U49Qm9pbZtRpjWe",
-    "owner": "DzrTNN7L2iMQYAZRMB2nUFZ7QCDA7LeJGfbSZDrxVCz8",
-    "amount": 1185888375,
+    "address": "6c1Jf6CihfnXvyapm7LBhWGLBfD7toGQoRkvanC3o49A",
+    "owner": "3YygxMPMC6yZDRU4R6oDeQ5WbVhzZk7bU4k8vCr4xr6U",
+    "amount": 3415518880,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "9QvxNWo8RtJnQZPDwHVApRMfzXCEDBhiLJSC6xyPy7fJ",
-    "owner": "5niysgHXFoa8apmrgeBNRXJ6yPiz4WnMnVnAobUXoaMh",
-    "amount": 790829013,
+    "address": "ENXDvTjbsWfeFx5YbjiuVSJRBQP8rhp3Y3eJtowC5zKb",
+    "owner": "4trHHzGGwdwSmWwVMobSoMdhNtXqRTsUT3gAEN9MX6np",
+    "amount": 3322463510,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "2ShTo8TWkPKCtVuXWNPkaEf3jnaJU8jm5UBxPcWRNMVQ",
+    "address": "4cGMWSHgKfAkRDY7HRn7547Dwj8iGZhBERrmzqtAeDVt",
+    "owner": "GbDpWrWpxmMbPGiM1A4NRNBktjuzLrEUGALC2bQdCKFP",
+    "amount": 3083679003,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "4NEpwdCXntbWM2Jmk1hFs3SDNWm4oEoMgJpiqF8CjHgb",
+    "owner": "Fm4JvVfFjZ4RQN5B9cknsVT1KAHUyJYf3NYH92rsVZA",
+    "amount": 3017868695,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "A9su2YvpeEmmUGWNupKeRJTcr2CW7snWkQMHEpPXBoM6",
+    "owner": "FrZXmjbU8mjJSKZdx4cqaQ47gAMPTmkou5goKeTBpaKf",
+    "amount": 2696673520,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "Fu16DWqueB5eC8thQkTd1LouiYeeLBYPbykLio4F9vQg",
+    "owner": "D7q2J7C3vereU5CpeN92fbwT4teL9AkxNPhaJ29fX9Zz",
+    "amount": 2631107829,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "AHTBLCCYvPTTfZh9afJZEEpfDzPDMoBmSABhjvNo7gHM",
+    "owner": "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp",
+    "amount": 2512165751,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "Ftry3Qy4Le2XEctQFgXALqYcorYLcHE7sjqFEYtForfp",
+    "owner": "FRphpZuFyNgJdij77QvQSSWfPrNCnKkMoZiJwwykRRKo",
+    "amount": 2509425102,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "9VCdyaYjnhEdAMLwrexjdgAdtwJx1nvjJFnEQTCU5M7A",
+    "owner": "9AJGJfkCa1zyqrDq47SB7bMmJBmheBu6wQ1nZwHnXtvr",
+    "amount": 1826178487,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "7jTjyY1aUQiSR1vUtZtFjH2MKvRHEc3y9mCctkbRv3gs",
+    "owner": "CLjCG7WsryGEpX1CiV8KemGm4h6FvdNdpkLxFidRD2ay",
+    "amount": 1163434438,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "6bAD3DUCCRrvS12iszxVNEwce3YRbWPWh1f6F3bKyBtp",
+    "owner": "DoMYNXUhtzgs2vVYtyrHPbqW2zEbNMwvR4cYdHLRRXEb",
+    "amount": 987956677,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "4fEMSbEzqkQZjhpYbXMYYVug67b7JdHKzSLZaboFS7KX",
+    "owner": "J1o8o2EPTGzZDJmgGPwznYfCySd4Es9EgfSr36cLUKTz",
+    "amount": 592230367,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "2aVSZCaVW9J994dmtg4HyPbdUq7YJDPRjTJpbgzAbCfV",
     "owner": "ATomG2gRJcB2jNvwcjo2zBMoyLsHZzLgwqy651zzYoCq",
-    "amount": 777574179,
+    "amount": 253096176,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "HEEsjoaoQWAs2QuTgyph8Uwjx7xVPSHcTzAT8VCrn1J1",
-    "owner": "CaShxDq2Vbdp2XryjDdUZthbTzwYsvKuH6Knn9pPi4xU",
-    "amount": 777512608,
-    "frozen": false,
-    "percentage": "0.00%"
-  },
-  {
-    "address": "6XBxMyt6hp1sXvKRG1hDLkiRE6ZxVBWcpDJLy4XBWNv3",
+    "address": "5syjKskRERFtJibdVmYTDvn6ukfF6spgb1qqQc6MRaVb",
     "owner": "DQeJQ91Uzcuyk4iAtpQ9FwD8Ddwr62NeWd8hoE1kgLLs",
-    "amount": 777389488,
+    "amount": 251339442,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "gH9uor1D4xbaAqwRBD1DT44kUgG5FjTqdEM7PFZsVNT",
+    "address": "6bonsRNuTg3zLMDTkG5WgjJVggGx8pacQThEERhoBr8P",
     "owner": "5STxtEtnh9UpNYgbFLBTYDUjN1CQqAcsaoBf1JN17e3R",
-    "amount": 395774733,
+    "amount": 204872275,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "3QvUNhPsLCjRg2nmpT49rfThMF7ZfzE26XfNKnRV9DUB",
-    "owner": "XferNN2T3egmLhbLkyC9u2EvXNGxdREwAnVGMKsuFXQ",
-    "amount": 395630895,
+    "address": "H33665fA3LvHJLJRiZZdATW3AxnYHzhmkhTG3BmnnQ7F",
+    "owner": "CaShxDq2Vbdp2XryjDdUZthbTzwYsvKuH6Knn9pPi4xU",
+    "amount": 188749407,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "3nnz2j3VvpUt9Y9FV8Yj7uw9MmbLbNTGNu45uWZoJZDB",
-    "owner": "AeLWuJB31eUqUoqk4cUqF2F14jA2mSHLkjh3xLuFNeSq",
-    "amount": 395457130,
+    "address": "ABX97F47Yodqwx5DfRYWWXn1byk3LSrgGszubdrSxUdx",
+    "owner": "4gEBJW4a5KVo2ByVM5n2Pp51JeDQ6kM7r8RfvLAxmiyd",
+    "amount": 144913335,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "Vm8DaUosxPQofDwfK3uVup3LQTR1HW8BPUCG2XG1qK8",
-    "owner": "FHdEcRSnXGvdVsws5FxmvGSgJAUpXcCr4RhsGjuDHxCU",
-    "amount": 395441339,
+    "address": "CUdCuUcmXeCwfv38Yw4wxqca2yDUMjaap9VdwrmjB6Df",
+    "owner": "DtjkgTh5zqpxfWVGmeHGEdAkwN5VD5RS4XTGpajfrYQA",
+    "amount": 144913063,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "8nXkWvFxoLLJPecAvJhHEBd7CxNMUPcXiY3eKrrraYYw",
-    "owner": "f2xVBrLjBvvoaJLoarzJnWtbkf4npoyHNTkHvhYMYLK",
-    "amount": 39580081,
+    "address": "GYg9sXBk4wAHJjVFFbKA2B7arQwGhNSv9bdQZZKGY1Z2",
+    "owner": "5LNMXTgYGPjTvoPtsAgNXgWkpb1LLkSycTH1xiokMmLr",
+    "amount": 144532352,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "GXfuh2gnKSJAZpx7TPfSRPN1sXHW5mssZH9UWGrz7Y5L",
-    "owner": "f1xmpaontEMnVsntVHhAqF4Todeu1enDvb8tk52gLNG",
-    "amount": 39579923,
+    "address": "8fKxxuc47e9MguRNwskKzAnsCGMowBfbAgWoLLy928iC",
+    "owner": "78cckKWDahVsteRmtjNxd9AU7yfXbCxz69PyvsV8Z1S8",
+    "amount": 144532081,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "8E5DWhbpN64mEknu3GH6A9F8hQMs4YuSpavF4brp5awj",
-    "owner": "xF3N6THB8wyV3sqdJG9Nb7zNzfCVayMgMzJ9CXGmXFX",
-    "amount": 39565538,
+    "address": "B6vQF1k1XmP7ofasiwy8oLhFwppiKjuhG1MzD9a6TfDK",
+    "owner": "4DE4M6WixZUUg1TgN7WDC4tt8ZboyikS81LQa2Dj45zG",
+    "amount": 98032656,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "C74WkeNngCKKczrsXwVzgrnYE5LmdhGGYmBcEFEs7spK",
-    "owner": "1so5qhRp9sERGYKZdyimMLYgj1Y5Gqd8c8AWjXumJme",
-    "amount": 39543264,
+    "address": "HtDN8KxxA9W4ytmKvaVMx3eQGyH2sU7962WCsSQCQyzn",
+    "owner": "CjCUfdZ4f8K7QMbYq87JbMeszJDKmKYbFNbPymAHaeSX",
+    "amount": 72177847,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "GdKbAZX8GwEhgCed48Es24awBDnCqfYPRoBZSgHkt9jm",
-    "owner": "XF2XTXPt2CjHZbjkEYdLA9his4ZmCUpts5ommJDHnRr",
-    "amount": 39543106,
+    "address": "GzndHgmgKeFEnTMRADkP28uNN6o19p3EP6v2FzjFamVg",
+    "owner": "5CryBaPoDp6jB6REDTSWnvPiEUnCRgDWNJvrcFsftvLq",
+    "amount": 890793,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "AHv5KqfAyq1Kp1cbeBaUdH42ru3hSqA5A5Txp5Dim4jG",
-    "owner": "3somFSQ1pUCPz9dg48EW1ZLMF6ViuKUhE7RWdffbAYrG",
-    "amount": 39229031,
+    "address": "CnshHTCZdA3BFGiYe6AQDEhGrZQDVHr8eUjDeyHMahCD",
+    "owner": "Fqgj7KTE2sVzT9faCHVEDL9vKiezY7aPCY4QTsjFGb9e",
+    "amount": 862623,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "DAYeDAZxKtNXJMYC8XebQV5CC6ftDYiD76kw7UnZzmLc",
-    "owner": "2soQg7cUtLQYCGXr6z2QLMzhgtuVN4HuXqeBRq9GPCw7",
-    "amount": 38866318,
+    "address": "J3sRrLoQb5f1BRFr5MGCNLfT188Nm4mnmGCF7g3wsMnj",
+    "owner": "GZMoSWreLeXNyBi15vXNKFM3wsKbquxq3AX9mf8RcNLh",
+    "amount": 783057,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "GH2YM1YZqEg3GZpdyY8ZseAYpSXE6zfKNN6MPb865oHs",
-    "owner": "E1p5ofCqna8pYJyifAJ9S8HbohcG5i5xyZJ1SVhbhrNk",
-    "amount": 38858472,
+    "address": "DtHUkeHYwKcXMmZxpfaDkgHn5ocX15NzZzDqAqcao1hS",
+    "owner": "55bTxqe9G1xFfyyF9AqYQkB5ShGkLgB4PcZP4NDHwiGB",
+    "amount": 762490,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "XF4oLNjZb7VN4t1fJDHDu59BhP6kvpXovFqLQ5wLRv5",
-    "owner": "E3PoXW6REjGiWwVdVz5ynmLK1fqXmviJaHxNsCGZNgUv",
-    "amount": 38858318,
+    "address": "BZmEkyuH3RoD6mtPUZSGRB1TeZFhthdUw1NMWa1b9z1C",
+    "owner": "96JBEVe3ECZ48RmvDGvvozjyUKZd6uqsvARrAd5uvKoz",
+    "amount": 734716,
     "frozen": false,
     "percentage": "0.00%"
   },
   {
-    "address": "GV3Dhr9SyN3TkfBPYWcWoGhxb3mowhtZrbuFjUeEAwrw",
-    "owner": "E2pYXqdqVMnb41MaaqYuPSVco1jvqgfhmPFk1Wu2nmq3",
-    "amount": 37323030,
+    "address": "HmC4q44idBbSxNXQkjgimWcwmCCB7grgcLKZdHaXZzc4",
+    "owner": "6A1vKdF13hPq6PQavnbNiDEmcUfqb8JiXqA7AYYhjzTy",
+    "amount": 672884,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "DZzJL9ppVyQcrG1EXhswyUDy4xq2FwHoErRozRR7UULK",
+    "owner": "7XiLL8eDXhsX8c53EX4hEYihG4cjCzUN2YReK9uKUpte",
+    "amount": 626308,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "DrDBVZmRx6vRuguhR8mR9mMxPiyC5BJdX2WgEfj6GDga",
+    "owner": "92dk4n23XGUfCdQaZXA3dU8T5C3ECMvVyRgKXqfE4wGD",
+    "amount": 568948,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "E3q9DGTc1VfxwLKUvUHNaDsN7XXepFHfaE8gJTNPvi9e",
+    "owner": "5Uep7rXMiwFFJnUhJKb8mvhz5dRXScmSiJdrGMfv2gaH",
+    "amount": 483757,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "2NsrmEd56mz27ip12R21qCSrAaZ7WXdx5TtWnhSaRnup",
+    "owner": "FZPrPifxnGYRfa6aUKFeXkU7FJPNzKRKLLj2SRhWhvoV",
+    "amount": 412897,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "nnD13j5bbgjanYg64uksXfinmJ5u3xSEsJpCA8Ada5j",
+    "owner": "J5KKuynwJnu54W9j3hhpqHwgVLMipZV68xK7J9wDbAM2",
+    "amount": 402855,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "45wuKXogmo1cHTQRoXNnUfygfm1R4L3aqmwcqo3gifAD",
+    "owner": "4LLFih6dttAx2J82sei6HLPsJF3YZoNRUNcAT7w1TFYC",
+    "amount": 281885,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "FBbHhKx8MaxAEnQZA3eKPWjNNK83dr4WUqB5CZpHxZYX",
+    "owner": "HBFwoYz67KEBJ8K2HtEb6L2QA5x3t85pDfvxm6tr4oyd",
+    "amount": 277144,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "7jgNVTkgZegSUyUq9GYNWe2ceC2hnGNdU7CUbeBWCrib",
+    "owner": "djDEyVDGKmcwSRgu2mLJqV3V6FhEdZNRJxEXVznPDdZ",
+    "amount": 265894,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "BH4BbhNgzdLKXbf8WB9sake4U1BuVq9Mr2oNatneurMz",
+    "owner": "HY5Dsi8BKpyTnEDM9pkkvHuHrzT5SmULL3piKCSyVMSD",
+    "amount": 227989,
+    "frozen": false,
+    "percentage": "0.00%"
+  },
+  {
+    "address": "DVub3vYDDzCyyyYLPi2nzeDyeD4EY87XZePCpAPLuiwG",
+    "owner": "ConfnKVMDysrY7UqtLw35zafLyLq3txAQ7y2iSzCrWyk",
+    "amount": 7259,
     "frozen": false,
     "percentage": "0.00%"
   }

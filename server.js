@@ -8,25 +8,15 @@ import cron from 'node-cron';
 const app = express();
 const port = 3000;
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-var mint = "";
+let mint = "";
 const url = `https://mainnet.helius-rpc.com/?api-key=e05277ba-444e-4bd0-86aa-b7993cf14ad6`;
 app.use(express.static('public'));
 app.use(express.json()); // For parsing application/json
 app.use(express.urlencoded({ extended: true })); // For parsing application/x-www-form-urlencoded
+let wallets = []
 
-// Function to read excluded wallets from a file
-async function readExcludedWallets() {
-    try {
-        const data = await fs.promises.readFile(path.join(__dirname, 'wallets.txt'), 'utf8');
-        return new Set(data.split('\n').map(line => line.trim()).filter(line => line));
-    } catch (error) {
-        console.error('Failed to read wallets.txt:', error);
-        return new Set();
-    }
-}
-
-async function findHolders(mint) {
-    const excludedWallets = await readExcludedWallets();
+async function findHolders(mint, wallets) {
+    console.log(wallets)
     let page = 1;
     let allAccounts = [];
     let continueFetching = true;
@@ -49,7 +39,7 @@ async function findHolders(mint) {
                 continueFetching = false;
             } else {
                 data.result.token_accounts.forEach(account => {
-                    if (!excludedWallets.has(account.owner)) {
+                    if (!wallets.includes(account.address)) {
                         allAccounts.push({
                             address: account.address,
                             owner: account.owner,
@@ -84,13 +74,14 @@ app.get('/', (req, res) => {
 
 app.get('/data', async (req, res) => {
     mint = req.query.mint;
-    const data = await findHolders(mint);
+    wallets = req.query.wallets.split('\n').map(wallet => wallet.trim()).filter(wallet => wallet !== '');
+    const data = await findHolders(mint, wallets);
     res.json(data); // Send data as JSON
 });
 
 // Scheduling the task every 5 seconds to refresh the data for the default mint
 cron.schedule('*/5 * * * * *', async () => {
-    const data = await findHolders(mint);
+    const data = await findHolders(mint, wallets);
     fs.writeFileSync(path.join(__dirname, 'output.json'), JSON.stringify(data, null, 2));
 });
 

@@ -9,6 +9,8 @@
     <form id="mintForm">
         <label for="mintAddress">Enter Token Mint Address:</label>
         <input type="text" id="mintAddress" name="mintAddress" required>
+        <label for="wallets">Enter Wallets (one per line):</label>
+        <textarea id="wallets" name="wallets" rows="5" cols="50"></textarea>
         <button type="submit">Submit</button>
     </form>
     <table>
@@ -24,7 +26,6 @@
             <!-- Data rows will be inserted here -->
         </tbody>
     </table>
+    <script src="/app.js"></script>
 </body>
-<script src="/app.js"></script>
-
 </html>
