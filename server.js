@@ -8,7 +8,7 @@ import cron from 'node-cron';
 const app = express();
 const port = 3000;
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const defaultMint = "6ftUfgx5U5GLwygn36nyBbPAayRzDTNze65drJWwtNpx";
+var mint = "";
 const url = `https://mainnet.helius-rpc.com/?api-key=e05277ba-444e-4bd0-86aa-b7993cf14ad6`;
 app.use(express.static('public'));
 app.use(express.json()); // For parsing application/json
@@ -83,14 +83,14 @@ app.get('/', (req, res) => {
 });
 
 app.get('/data', async (req, res) => {
-    const mint = req.query.mint || defaultMint;
+    mint = req.query.mint;
     const data = await findHolders(mint);
     res.json(data); // Send data as JSON
 });
 
 // Scheduling the task every 5 seconds to refresh the data for the default mint
 cron.schedule('*/5 * * * * *', async () => {
-    const data = await findHolders(defaultMint);
+    const data = await findHolders(mint);
     fs.writeFileSync(path.join(__dirname, 'output.json'), JSON.stringify(data, null, 2));
 });
 
