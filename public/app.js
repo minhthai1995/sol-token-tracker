@@ -93,15 +93,15 @@ function displayData(data) {
         const row = document.createElement('tr');
         const addressCell = document.createElement('td');
         addressCell.textContent = account.address;
-        const amountCell = document.createElement('td');
-        amountCell.textContent = account.amount;
+        // const amountCell = document.createElement('td');
+        // amountCell.textContent = account.amount;
         const ownerCell = document.createElement('td');
         ownerCell.textContent = account.owner;
         const percentageCell = document.createElement('td');
         percentageCell.textContent = account.percentage;
 
         row.appendChild(addressCell);
-        row.appendChild(amountCell);
+        // row.appendChild(amountCell);
         row.appendChild(ownerCell);
         row.appendChild(percentageCell);
         tableBody.appendChild(row);

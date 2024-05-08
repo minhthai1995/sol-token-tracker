@@ -20,6 +20,7 @@ async function findHolders(mint, wallets) {
     let allAccounts = [];
     let continueFetching = true;
     let totalTokens = 0;
+    const decimals = 9; // Token has 9 decimal places
 
     while (continueFetching) {
         try {
@@ -34,21 +35,20 @@ async function findHolders(mint, wallets) {
                 }),
             });
             const data = await response.json();
-            console.log(data.result);
             if (!data.result || data.result.token_accounts.length === 0) {
                 continueFetching = false;
             } else {
                 data.result.token_accounts.forEach(account => {
-                    account.amount = Math.round(account.amount/10^9)
+                    let convertedAmount = account.amount / Math.pow(10, decimals); // Convert amount
                     if (!wallets.includes(account.address)) {
                         allAccounts.push({
                             address: account.address,
                             owner: account.owner,
-                            amount: account.amount,
+                            amount: convertedAmount, // Store converted amount
                             frozen: account.frozen
                         });
                     }
-                    totalTokens += account.amount;
+                    totalTokens += convertedAmount;
                 });
                 page++;
             }
@@ -68,6 +68,7 @@ async function findHolders(mint, wallets) {
     allAccounts.sort((a, b) => b.amount - a.amount);
     return allAccounts;
 }
+
 
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'index.html'));
