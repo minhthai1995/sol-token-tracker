@@ -91,8 +91,8 @@ function displayData(data) {
 
     data.forEach(account => {
         const row = document.createElement('tr');
-        const addressCell = document.createElement('td');
-        addressCell.textContent = account.address;
+        // const addressCell = document.createElement('td');
+        // addressCell.textContent = account.address;
         // const amountCell = document.createElement('td');
         // amountCell.textContent = account.amount;
         const ownerCell = document.createElement('td');
@@ -100,7 +100,7 @@ function displayData(data) {
         const percentageCell = document.createElement('td');
         percentageCell.textContent = account.percentage;
 
-        row.appendChild(addressCell);
+        // row.appendChild(addressCell);
         // row.appendChild(amountCell);
         row.appendChild(ownerCell);
         row.appendChild(percentageCell);
