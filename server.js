@@ -16,7 +16,6 @@ app.use(express.urlencoded({ extended: true })); // For parsing application/x-ww
 let wallets = []
 
 async function findHolders(mint, wallets) {
-    console.log(wallets)
     let page = 1;
     let allAccounts = [];
     let continueFetching = true;
@@ -35,10 +34,12 @@ async function findHolders(mint, wallets) {
                 }),
             });
             const data = await response.json();
+            console.log(data.result);
             if (!data.result || data.result.token_accounts.length === 0) {
                 continueFetching = false;
             } else {
                 data.result.token_accounts.forEach(account => {
+                    account.amount = Math.round(account.amount/10^9)
                     if (!wallets.includes(account.address)) {
                         allAccounts.push({
                             address: account.address,
