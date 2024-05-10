@@ -16,6 +16,7 @@ app.use(express.urlencoded({ extended: true })); // For parsing application/x-ww
 let wallets = []
 
 async function findHolders(mint, wallets) {
+    console.log('wallets', wallets);
     let page = 1;
     let allAccounts = [];
     let continueFetching = true;
@@ -40,7 +41,7 @@ async function findHolders(mint, wallets) {
             } else {
                 data.result.token_accounts.forEach(account => {
                     let convertedAmount = account.amount / Math.pow(10, decimals); // Convert amount
-                    if (!wallets.includes(account.address)) {
+                    if (!wallets.includes(account.owner)) {
                         allAccounts.push({
                             address: account.address,
                             owner: account.owner,
