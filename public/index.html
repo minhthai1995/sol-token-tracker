@@ -25,20 +25,39 @@
         }
         .tables-container {
             display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        .table-wrapper {
+            display: inline-block;
+            margin-right: 20px;
         }
         table {
-            margin: 20px;
             border-collapse: collapse;
         }
         th, td {
             border: 1px solid #ddd;
             padding: 8px;
-        }
-        td {
-            vertical-align: text-top;
+            height: 20px; /* Set fixed height for each row */
+            width: 150px; /* Set fixed width for each column */
+            text-align: left;
         }
         th {
             background-color: #f2f2f2;
+        }
+        tbody {
+            display: block;
+            height: 400px; /* Set fixed height for the table body */
+            overflow-y: auto;
+        }
+        table {
+            display: table;
+            width: auto;
+        }
+        thead, tbody tr {
+            display: table;
+            width: 100%;
+            table-layout: fixed;
         }
     </style>
 </head>
@@ -53,29 +72,33 @@
         <button type="submit">Submit</button>
     </form>
     <div class="tables-container">
-        <table>
-            <thead>
-                <tr>
-                    <th>Owner</th>
-                    <th>Percentage</th>
-                </tr>
-            </thead>
-            <tbody id="accountData">
-                <!-- Data rows will be inserted here -->
-            </tbody>
-        </table>
-        <table>
-            <thead>
-                <tr>
-                    <th>Excluded Wallet</th>
-                    <th>Amount</th>
-                    <th>Percentage</th>
-                </tr>
-            </thead>
-            <tbody id="excludedWallets">
-                <!-- Excluded wallets will be inserted here -->
-            </tbody>
-        </table>
+        <div class="table-wrapper">
+            <table id="includedTable">
+                <thead>
+                    <tr>
+                        <th>Owner</th>
+                        <th>Percentage</th>
+                    </tr>
+                </thead>
+                <tbody id="accountData">
+                    <!-- Data rows will be inserted here -->
+                </tbody>
+            </table>
+        </div>
+        <div class="table-wrapper">
+            <table id="excludedTable">
+                <thead>
+                    <tr>
+                        <th>Excluded Wallet</th>
+                        <th>Amount</th>
+                        <th>Percentage</th>
+                    </tr>
+                </thead>
+                <tbody id="excludedWallets">
+                    <!-- Excluded wallets will be inserted here -->
+                </tbody>
+            </table>
+        </div>
     </div>
     <script src="app.js"></script>
 </body>
