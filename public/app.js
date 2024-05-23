@@ -35,7 +35,7 @@ function startPolling(mint, wallets) {
             }
 
             const data = await response.json();
-            displayData(data);
+            displayData(data, wallets);
         } catch (error) {
             console.error('There was a problem fetching the data:', error);
         } finally {
@@ -48,25 +48,43 @@ function startPolling(mint, wallets) {
     window.pollInterval = setInterval(pollData, interval); // Subsequent polls
 }
 
-function displayData(data) {
+function displayData(data, excludedWallets) {
     const tableBody = document.getElementById('accountData');
+    const excludedTableBody = document.getElementById('excludedWallets');
     tableBody.innerHTML = '';
+    excludedTableBody.innerHTML = '';
+
+    let totalTokens = data.reduce((sum, account) => sum + parseFloat(account.amount), 0);
 
     data.forEach(account => {
-        const row = document.createElement('tr');
-        // const addressCell = document.createElement('td');
-        // addressCell.textContent = account.address;
-        // const amountCell = document.createElement('td');
-        // amountCell.textContent = account.amount;
-        const ownerCell = document.createElement('td');
-        ownerCell.textContent = account.owner;
-        const percentageCell = document.createElement('td');
-        percentageCell.textContent = account.percentage;
+        if (!excludedWallets.includes(account.owner)) {
+            const row = document.createElement('tr');
+            const ownerCell = document.createElement('td');
+            ownerCell.textContent = account.owner;
+            const percentageCell = document.createElement('td');
+            percentageCell.textContent = ((account.amount / totalTokens) * 100).toFixed(2) + '%';
 
-        // row.appendChild(addressCell);
-        // row.appendChild(amountCell);
-        row.appendChild(ownerCell);
-        row.appendChild(percentageCell);
-        tableBody.appendChild(row);
+            row.appendChild(ownerCell);
+            row.appendChild(percentageCell);
+            tableBody.appendChild(row);
+        }
+    });
+
+    excludedWallets.forEach(wallet => {
+        let account = data.find(account => account.owner === wallet);
+        if (account) {
+            const row = document.createElement('tr');
+            const ownerCell = document.createElement('td');
+            ownerCell.textContent = account.owner;
+            const amountCell = document.createElement('td');
+            amountCell.textContent = account.amount;
+            const percentageCell = document.createElement('td');
+            percentageCell.textContent = ((account.amount / totalTokens) * 100).toFixed(2) + '%';
+
+            row.appendChild(ownerCell);
+            row.appendChild(amountCell);
+            row.appendChild(percentageCell);
+            excludedTableBody.appendChild(row);
+        }
     });
 }

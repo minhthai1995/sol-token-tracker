@@ -19,11 +19,10 @@ async function findHolders(mint, wallets) {
     console.log('wallets', wallets);
     let page = 1;
     let allAccounts = [];
-    let continueFetching = true;
     let totalTokens = 0;
     const decimals = 9; // Token has 9 decimal places
 
-    while (continueFetching) {
+    while (true) {
         try {
             const response = await fetch(url, {
                 method: "POST",
@@ -37,25 +36,23 @@ async function findHolders(mint, wallets) {
             });
             const data = await response.json();
             if (!data.result || data.result.token_accounts.length === 0) {
-                continueFetching = false;
+                break;
             } else {
                 data.result.token_accounts.forEach(account => {
                     let convertedAmount = account.amount / Math.pow(10, decimals); // Convert amount
-                    if (!wallets.includes(account.owner)) {
-                        allAccounts.push({
-                            address: account.address,
-                            owner: account.owner,
-                            amount: convertedAmount, // Store converted amount
-                            frozen: account.frozen
-                        });
-                    }
+                    allAccounts.push({
+                        address: account.address,
+                        owner: account.owner,
+                        amount: convertedAmount, // Store converted amount
+                        frozen: account.frozen
+                    });
                     totalTokens += convertedAmount;
                 });
                 page++;
             }
         } catch (error) {
             console.error('Error fetching token accounts:', error);
-            continueFetching = false;
+            break;
         }
     }
 
@@ -69,6 +66,7 @@ async function findHolders(mint, wallets) {
     allAccounts.sort((a, b) => b.amount - a.amount);
     return allAccounts;
 }
+
 
 
 app.get('/', (req, res) => {

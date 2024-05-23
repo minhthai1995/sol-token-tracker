@@ -23,6 +23,23 @@
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
+        .tables-container {
+            display: flex;
+        }
+        table {
+            margin: 20px;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        td {
+            vertical-align: text-top;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
     </style>
 </head>
 <body>
@@ -35,19 +52,31 @@
         <textarea id="wallets" name="wallets" rows="5" cols="50"></textarea>
         <button type="submit">Submit</button>
     </form>
-    <table>
-        <thead>
-            <tr>
-                <!-- <th>Account Address</th> -->
-                <!-- <th>Amount</th> -->
-                <th>Owner</th>
-                <th>Percentage</th>
-            </tr>
-        </thead>
-        <tbody id="accountData">
-            <!-- Data rows will be inserted here -->
-        </tbody>
-    </table>
+    <div class="tables-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Owner</th>
+                    <th>Percentage</th>
+                </tr>
+            </thead>
+            <tbody id="accountData">
+                <!-- Data rows will be inserted here -->
+            </tbody>
+        </table>
+        <table>
+            <thead>
+                <tr>
+                    <th>Excluded Wallet</th>
+                    <th>Amount</th>
+                    <th>Percentage</th>
+                </tr>
+            </thead>
+            <tbody id="excludedWallets">
+                <!-- Excluded wallets will be inserted here -->
+            </tbody>
+        </table>
+    </div>
     <script src="app.js"></script>
 </body>
 </html>
