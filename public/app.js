@@ -51,11 +51,34 @@ function startPolling(mint, wallets) {
 function displayData(data, excludedWallets) {
     const tableBody = document.getElementById('accountData');
     const excludedTableBody = document.getElementById('excludedWallets');
+    const totalExcludedPercentageCell = document.getElementById('totalExcludedPercentage');
     tableBody.innerHTML = '';
     excludedTableBody.innerHTML = '';
 
     let totalTokens = data.reduce((sum, account) => sum + parseFloat(account.amount), 0);
+    let totalExcludedPercentage = 0;
 
+    // Display excluded wallets first
+    excludedWallets.forEach(wallet => {
+        let account = data.find(account => account.owner === wallet);
+        if (account) {
+            const row = document.createElement('tr');
+            const ownerCell = document.createElement('td');
+            ownerCell.textContent = account.owner;
+            const percentageCell = document.createElement('td');
+            const percentage = ((account.amount / totalTokens) * 100).toFixed(2);
+            percentageCell.textContent = percentage + '%';
+            totalExcludedPercentage += parseFloat(percentage);
+
+            row.appendChild(ownerCell);
+            row.appendChild(percentageCell);
+            excludedTableBody.appendChild(row);
+        }
+    });
+
+    totalExcludedPercentageCell.textContent = totalExcludedPercentage.toFixed(2) + '%';
+
+    // Display other wallets
     data.forEach(account => {
         if (!excludedWallets.includes(account.owner)) {
             const row = document.createElement('tr');
@@ -67,24 +90,6 @@ function displayData(data, excludedWallets) {
             row.appendChild(ownerCell);
             row.appendChild(percentageCell);
             tableBody.appendChild(row);
-        }
-    });
-
-    excludedWallets.forEach(wallet => {
-        let account = data.find(account => account.owner === wallet);
-        if (account) {
-            const row = document.createElement('tr');
-            const ownerCell = document.createElement('td');
-            ownerCell.textContent = account.owner;
-            const amountCell = document.createElement('td');
-            amountCell.textContent = account.amount;
-            const percentageCell = document.createElement('td');
-            percentageCell.textContent = ((account.amount / totalTokens) * 100).toFixed(2) + '%';
-
-            row.appendChild(ownerCell);
-            row.appendChild(amountCell);
-            row.appendChild(percentageCell);
-            excludedTableBody.appendChild(row);
         }
     });
 }
